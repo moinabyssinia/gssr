@@ -5,7 +5,22 @@
   <script src="./leaflet/leaflet.js"></script>
     <script src="jquery-2.1.1.min.js"></script> 
   <style>
-    #map{ height: 100% }
+    #map{ 
+      height: 75%;
+      width: 65%; 
+      position: relative;
+      top: 6%;
+      bottom: 10%;
+      left: 17.5%;
+      right: 17.5%;
+    }
+    
+    .starter {
+      margin-top: 60;
+      font-size: 1.25em;
+      color: darkolivegreen;
+      text-align: center;
+    }
 
     h2 {
       margin-bottom: 0px;
@@ -13,6 +28,10 @@
   </style>
 </head>
 <body>
+
+  <div class="starter">
+    <h1>20th Century Global Storm Surge Reconstruction</h1>
+  </div>
 
   <div id="map"></div>
 
@@ -46,7 +65,7 @@
     L.geoJson(data, {
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng,{icon: surgeIcon});
-        marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  " +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  " +feature.properties.lon  + '<br/>' + "<strong>Latitude:</strong>  " +feature.properties.lat + '<br/>' + "<strong>Correlation:</strong>  " +feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  " +feature.properties.rmse + '<br/>' + "<strong>Daily Max Surge (m):</strong>  " + '<a href= ' + feature.properties.path + '>CSV</a>');
+        marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  "+ '<br/>'  +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  "+ '<br/>' + +feature.properties.lon  + '<br/>' + "<strong>Latitude:</strong>  "+ '<br/>' + +feature.properties.lat + '<br/>' + "<strong>Correlation:</strong>  "+ '<br/>' + +feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  "+ '<br/>' + +feature.properties.rmse + '<br/>' + "<strong>Daily Max Surge (m):</strong>  "+ '<br/>'  + '<a href= ' + feature.properties.path + '>CSV</a>');
         return marker;
       }
     }).addTo(map);
