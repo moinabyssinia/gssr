@@ -30,7 +30,8 @@
 
   // load a tile layer
   L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-    attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+    attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community',
+
   }).addTo(map);
 
 
@@ -45,7 +46,7 @@
     L.geoJson(data, {
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng,{icon: surgeIcon});
-        marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  " +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  " +feature.properties.lon  + '<br/>' + "<strong>Latitude:</strong>  " +feature.properties.lat + '<br/>' + "<strong>Correlation:</strong>  " +feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  " +feature.properties.rmse);
+        marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  " +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  " +feature.properties.lon  + '<br/>' + "<strong>Latitude:</strong>  " +feature.properties.lat + '<br/>' + "<strong>Correlation:</strong>  " +feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  " +feature.properties.rmse + '<br/>' + "<strong>Link:</strong>  " + "<a href='https://www.google.com/'>Google</a><br/>");
         return marker;
       }
     }).addTo(map);
