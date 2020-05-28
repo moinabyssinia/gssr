@@ -23,9 +23,13 @@
   // the last number is the level of zoom
   var map = L.map('map', {
     zoomDelta: 0.5,
+    zoomControl: true
     //maxBounds: bounds,
     //maxBoundsViscosity: 0.0
   }).setView([20, 0], 2);
+
+
+  map.zoomControl.setPosition('topright');
 
   // load a tile layer
   L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
