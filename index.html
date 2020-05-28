@@ -1,0 +1,56 @@
+<html>
+<head>
+  <title>A Leaflet map!</title>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="jquery-2.1.1.min.js"></script> 
+  <style>
+    #map{ height: 100% }
+
+    h2 {
+      margin-bottom: 0px;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <script>
+
+  // initialize the map
+  // in the setView the first two values are lat and lon
+  // the last number is the level of zoom
+  var map = L.map('map', {
+    zoomDelta: 5,
+    //maxBounds: bounds,
+    //maxBoundsViscosity: 0.0
+  }).setView([20, 0], 2);
+
+  // load a tile layer
+  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+    attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+  }).addTo(map);
+
+
+  // load GeoJSON from an external file
+  $.getJSON("20cr_lrreg_kfold.geojson",function(data){
+    var surgeIcon = L.icon({
+      iconUrl: 'circle-48.png',
+      iconSize: [13, 13], // size of the icon
+    });
+    
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data, {
+      pointToLayer: function(feature,latlng){
+        var marker = L.marker(latlng,{icon: surgeIcon});
+        marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  " +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  " +feature.properties.lon  + '<br/>' + "<strong>Latitude:</strong>  " +feature.properties.lat + '<br/>' + "<strong>Correlation:</strong>  " +feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  " +feature.properties.rmse);
+        return marker;
+      }
+    }).addTo(map);
+  });
+ 
+
+  </script>
+</body>
+</html>
