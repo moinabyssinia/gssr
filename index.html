@@ -36,7 +36,7 @@
 
 
   // load GeoJSON from an external file
-  $.getJSON("20cr_lrreg_kfold.geojson",function(data){
+  $.getJSON("eraint.geojson",function(data){
     var surgeIcon = L.icon({
       iconUrl: 'circle-48.png',
       iconSize: [13, 13], // size of the icon
@@ -46,7 +46,7 @@
     L.geoJson(data, {
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng,{icon: surgeIcon});
-        marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  " +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  " +feature.properties.lon  + '<br/>' + "<strong>Latitude:</strong>  " +feature.properties.lat + '<br/>' + "<strong>Correlation:</strong>  " +feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  " +feature.properties.rmse + '<br/>' + "<strong>Link:</strong>  " + "<a href='https://www.google.com/'>Google</a><br/>");
+        marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  " +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  " +feature.properties.lon  + '<br/>' + "<strong>Latitude:</strong>  " +feature.properties.lat + '<br/>' + "<strong>Correlation:</strong>  " +feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  " +feature.properties.rmse + '<br/>' + "<strong>Daily Max Surge (m):</strong>  " + '<a href= ' + feature.properties.path + '>CSV</a>');
         return marker;
       }
     }).addTo(map);
