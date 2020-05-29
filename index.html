@@ -83,17 +83,17 @@
         feature.properties.lat +  ']' +'<hr/>' + 
         
           // ERA-Int
-         '<a href= ' + feature.properties.eraintPath + '><h4>Daily Max Surge</h4></a>' + 
+         '<a href= ' + feature.properties.eraintPath + '><h4>Daily Max Surge [CSV]</h4></a>' + 
          "<h4>Model Forcing:</h4>  " + "<span id = 'eraint'>ERA-Interim</span>  - " + feature.properties.yrEraint + " years" + '<br/>' + 
          '<hr/>' +
          
           // ERA20C
-         '<a href= ' + feature.properties.era20cPath + '><h4>Daily Max Surge</h4></a>' + 
+         '<a href= ' + feature.properties.era20cPath + '><h4>Daily Max Surge [CSV]</h4></a>' + 
          "<h4>Model Forcing:</h4>  " + "<span id = 'era20c'>ERA-20C</span>  - " + feature.properties.yrEra20c + " years" + '<br/>' +
          '<hr/>' +
          
         //  20thCR
-         '<a href= ' + feature.properties.twcrPath + '>Daily Max Surge</a>' +
+         '<a href= ' + feature.properties.twcrPath + '><h4>Daily Max Surge [CSV]</h4></a>' +
          "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
          );
         return marker;
