@@ -25,6 +25,7 @@
     h2 {
       margin-bottom: 0px;
     }
+
   </style>
 </head>
 <body>
@@ -65,7 +66,11 @@
     L.geoJson(data, {
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng,{icon: surgeIcon});
-        marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  "+ '<br/>'  +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  "+ '<br/>' + +feature.properties.lon  + '<br/>' + "<strong>Latitude:</strong>  "+ '<br/>' + +feature.properties.lat + '<br/>' + "<strong>Correlation:</strong>  "+ '<br/>' + +feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  "+ '<br/>' + +feature.properties.rmse + '<br/>' + "<strong>Daily Max Surge (m):</strong>  "+ '<br/>'  + '<a href= ' + feature.properties.path + '>CSV</a>');
+        marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  "+ '<br/>'  
+        +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  "+ '<br/>' +feature.geometry.coordinates[0]  
+        + '<br/>' + "<strong>Latitude:</strong>  "+ '<br/>' + feature.geometry.coordinates[1] + '<br/>' + "<strong>Correlation:</strong>  "+ 
+        '<br/>' + feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  "+ '<br/>' + feature.properties.rmse + '<br/>' +
+         "<strong>Daily Max Surge (m):</strong>  "+ '<br/>'  + '<a href= ' + feature.properties.path + '>CSV</a>');
         return marker;
       }
     }).addTo(map);
