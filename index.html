@@ -22,9 +22,10 @@
       text-align: center;
     }
 
-    h2 {
+    h2, h3, h4 {
       margin-bottom: 0px;
     }
+
 
   </style>
 </head>
@@ -67,10 +68,11 @@
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng,{icon: surgeIcon});
         marker.bindPopup( "<h2>Station Metadata:</h2>" + '<hr/>' +  "<strong>Station Name:</strong>  "+ '<br/>'  
-        +feature.properties.tg + '<br/>' + "<strong>Longitude:</strong>  "+ '<br/>' +feature.geometry.coordinates[0]  
-        + '<br/>' + "<strong>Latitude:</strong>  "+ '<br/>' + feature.geometry.coordinates[1] + '<br/>' + "<strong>Correlation:</strong>  "+ 
-        '<br/>' + feature.properties.corrn + '<br/>' + "<strong>RMSE (m):</strong>  "+ '<br/>' + feature.properties.rmse + '<br/>' +
-         "<strong>Daily Max Surge (m):</strong>  "+ '<br/>'  + '<a href= ' + feature.properties.path + '>CSV</a>');
+        +feature.properties.tg + '<br/>' + "<h4>Longitude:</h4>  "+feature.geometry.coordinates[0]  
+        + '<br/>' + "<h4>Latitude:</h4>  "+ feature.geometry.coordinates[1] + '<hr/>' + "<h3>ERA-Interim</h3>" +
+        "<h4>Model trained on:</h4>  " + feature.properties.num_year + " years" + '<br/>'  +
+        "<h4>Correlation:</h4>  "+ feature.properties.corrn + "<h4>RMSE (m):</h4>  "+ feature.properties.rmse + 
+         "<h4>Daily Max Surge (m):</h4>  "+ '<a href= ' + feature.properties.path + '>CSV</a>');
         return marker;
       }
     }).addTo(map);
