@@ -1,0 +1,16 @@
+.starter {
+    padding-top: 75px;
+}
+
+.info {
+    width: 80%;
+    padding-top: 40px;
+    text-align: middle;
+    margin: 0 auto;
+    text-align: justify;
+    font-size: 1.25em;
+}
+
+hr {
+    width: 80%;
+}
