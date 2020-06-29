@@ -1,16 +1,51 @@
+ 
+body {
+  background-color:rgb(236, 230, 230);
+}
+#map{ 
+  height: 75%;
+  width: 65%; 
+  position: relative;
+  top: 3%;
+  bottom: 10%;
+  left: 17.5%;
+  right: 17.5%;
+}
+
 .starter {
-    padding-top: 75px;
+  margin-top: 5px;
+  padding-top: 5px;
+  font-size: 1.25em;
+  color:darkred;
+  text-align: center;
 }
 
-.info {
-    width: 80%;
-    padding-top: 40px;
-    text-align: middle;
-    margin: 0 auto;
-    text-align: justify;
-    font-size: 1.25em;
+h2, h3, h4 {
+  margin-bottom: 0px;
 }
 
-hr {
-    width: 80%;
+
+#eraint {
+  color: blueviolet;
 }
+#era20c {
+  color: brown;
+}
+#twcr {
+  color: green;
+}
+
+.leaflet-bar a {
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+  /* border-bottom-color: rgb(204, 204, 204); */
+  color: #444;
+  display: block;
+  height: 26px;
+  width: 26px;
+  line-height: 1.45 !important;
+  text-align: center;
+  text-decoration: none;
+  font: bold 18px'Lucida Console', Monaco, monospace;
+}
+
