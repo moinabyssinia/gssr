@@ -103,7 +103,7 @@
 
 
   // load GeoJSON from an external file
-  $.getJSON("./metadata/allMetadataV3.geojson",function(data){
+  $.getJSON("./metadata/allMetadataV4.geojson",function(data){
     var surgeIcon = L.icon({
       iconUrl: 'circle-48.png',
       iconSize: [13, 13], // size of the icon
