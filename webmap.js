@@ -103,7 +103,7 @@
 
 
   // load GeoJSON from an external file
-  $.getJSON("./metadata/allMetadataV2.geojson",function(data){
+  $.getJSON("./metadata/allMetadataV3.geojson",function(data){
     var surgeIcon = L.icon({
       iconUrl: 'circle-48.png',
       iconSize: [13, 13], // size of the icon
@@ -133,7 +133,11 @@
          //  MERRA
          '<a href= ' + feature.properties.merraPath + '><h4>Surge: MERRA</h4></a>' 
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
-         );
+         +
+         //  ERA-Five
+         '<a href= ' + feature.properties.erafivePath + '><h4>Surge: ERA-Five</h4></a>' 
+        //  "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
+        );
         return marker;
       }
     }).addTo(map);
