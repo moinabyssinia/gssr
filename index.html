@@ -115,36 +115,37 @@
   <div id="map"></div>
 
   <div class="info">
-    <p>The methodology for this study builds on what is implemented by <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00260/full" target="_blank">(Tadesse et al., 2020).</a> 
-      Before the storm surge reconstruction, sensitivity analysis is carried out in two phases. 
-      The first phase deals with predictor selection. Tadesse (2020) used five predictors (10 m 
-      zonal and meridional wind speed, mean-sea level pressure, precipitation, and sea surface temperature). 
-      In the first phase of the sensitivity analysis, multiple linear regression and random forest models are 
-      trained for 841 tide gauges with different combinations of predictors and the simulated surge 
-      is validated against observed surge. Eventually, 
-      the combination of predictors that give the best validation result 
-      (lowest RMSE and highest correlation) is chosen for further analysis.</p> 
+
+    <strong>Background</strong>
+
+    <p>Understanding the stochastic nature of extreme water level events is important for efficient planning and design of coastal defense structures.
+      Unfortunately, a major hurdle in the study of extreme water levels is the lack of data going back in time making it difficult to study the long-term trends 
+      and variabilities in them. As a rule of thumb, extrapolation of extreme water level events should be limited to return periods not longer than four 
+      times the available annual maximum levels. This means in order to extrapolate to a 100 year storm surge event, at least 25 years of available storm 
+      surge data are needed. This, however, is not the reality in most tide gauges as 45% of the tide gauges covered in this study 
+      have less than 25 years of data. Moreover, coastal defense structures are usually designed for a much higher return period than 100 years. Flood defenses 
+      in The Netherlands, for instance,  are designed for a 10,000 year event.</p>
+
+      <strong>What we present</strong>
+
+      <p>A longer record (1836 - 2019) of quasi-global storm surge reconstruction making use of already developed data-driven models and centennial climate reanalysis data. 
+        The data-driven models employed for surge reconstruction are developed by <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00260/full" 
+        target="_blank">Tadesse et al. (2020).</a></p>
+
+      <strong>Methodology</strong>
+
+      <p>The methodology for this study builds on what is implemented by <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00260/full" target="_blank">
+        Tadesse et al. (2020).</a></p>
       
-      <p>In this study, we found that three predictors, viz. 10 m zonal and meridional wind speed and mean-sea level pressure give the best 
-        validation results. Adding precipitation and sea surface temperature resulted in very little improvement on model accuracy and, hence 
-        not used for further analysis. </p> 
-      
-      <p>The second phase of the sensitivity analysis deals with finding the optimal area around tide gauges that needs to be considered 
-        to train/test the storm surge model. Tadesse (2020) used a 10 x 10 area around every tide gauge to train/test models.  
-        Considering the high spatial and temporal resolution reanalyzes that are used for this study, it is imperative to find an optimal
-         area around a tide gauge that reconciles the tradeoff between model accuracy and computation time. 
-         To this end, a box of 1 x 1, 2 x 2, 3 x 3, 4 x 4, 6 x 6, and 8 x 8 were tested and results 
-         were compared to the base case, 100 x 100. We found out that an area of  6 x 6  is optimal considering
-          model accuracy(measured in RMSE and correlation) and computational time (measured in hours.) 
-       </p>
-      <p>
-        Here we present a storm surge reconstruction produced by forcing the model presented by Tadesse (2020) 
-        with <a href="https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-interim">ERA-Interim global atmospheric reanalysis</a>,
-        <a href="https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-20c">ERA-20C global atmospheric reanalysis</a>, 
-        <a href="https://www.esrl.noaa.gov/psd/data/gridded/data.20thC_ReanV3.monolevel.html">20CRV3 (NOAA-CIRES) monolovel variables</a>,
-        <a href="https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2I1NXINT.5.12.4/">MERRA-2</a>, and 
-        <a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview">ERA-Five</a> climate reanalyses.
-      </p>
+      <strong>Input Datasets</strong>
+        <ul>
+         <li><a href="https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-interim">ERA-Interim global atmospheric reanalysis</a>,</li>
+         <li><a href="https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-20c">ERA-20C global atmospheric reanalysis</a>,</li>
+         <li><a href="https://www.esrl.noaa.gov/psd/data/gridded/data.20thC_ReanV3.monolevel.html">20CRV3 (NOAA-CIRES) atmospheric reanalysis</a>,</li>
+         <li><a href="https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2I1NXINT.5.12.4/">MERRA-2 atmospheric reanalysis</a></li>
+         <li><a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview">ERA-Five atmospheric reanalysis</a></li>
+         <li><a href="https://www.gesla.org/">Global Extreme Sea Level Analysis - Sea-level Data</a></li>
+        </ul>
 
   </div>
   <footer> <small>&copy; <span class="currentYear"></span> Michael Getachew Tadesse</small> </footer> 
