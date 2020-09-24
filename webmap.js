@@ -92,6 +92,7 @@
           }
       }
   });
+  
   // add the new control to the map
   var zoomHome = new L.Control.zoomHome();
   zoomHome.addTo(map);
