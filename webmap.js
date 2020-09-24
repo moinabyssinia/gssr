@@ -118,7 +118,8 @@
         +feature.properties.tg + '<br/>' + "<h4>Lon/Lat:</h4>  "+ '[' +feature.geometry.coordinates[0] + ', ' + 
         feature.geometry.coordinates[1] +  ']' +'<hr/>' + 
         
-          // ERA-Int
+        /* adding path and suffix if it's the best reconstruction */  
+        // ERA-Int
          `<strong><a href= ${feature.properties.eraintPath} <h4>Surge: ERA-Interim ${feature.properties.eraintBest}</h4></a></strong>`  +
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'eraint'>ERA-Interim</span>  - " + feature.properties.yrEraint + " years" + '<br/>' + 
         //  '<hr/>' +
@@ -129,13 +130,14 @@
         //  '<hr/>' +
          
         //  20thCR
-         `<a href= ${feature.properties.twcrPath} ><h4>Surge: 20thCR ${feature.properties.twcrBest}</h4></a>` + 
+         `<strong><a href= ${feature.properties.twcrPath} ><h4>Surge: 20thCR ${feature.properties.twcrBest}</h4></a></strong>` + 
+         
          //  MERRA
-         '<a href= ' + feature.properties.merraPath + '><h4>Surge: MERRA</h4></a>' 
+         `<strong><a href= ${feature.properties.merraPath} ><h4>Surge: MERRA ${feature.properties.merraBest}</h4></a></strong>` +
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
-         + feature.properties.merraBest +
+          
          //  ERA-Five
-         '<a href= ' + feature.properties.erafivePath + '><h4>Surge: ERA-Five</h4></a>' + feature.properties.erafiveBest
+         `<strong><a href= ${feature.properties.erafivePath} ><h4>Surge: ERA-Five ${feature.properties.erafiveBest}</h4></a></strong>` 
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
         );
         return marker;
