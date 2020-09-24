@@ -104,7 +104,7 @@
 
 
   // load GeoJSON from an external file
-  $.getJSON("./metadata/allMetadataV5.geojson",function(data){
+  $.getJSON("./metadata/allMetadataV6.geojson",function(data){
     var surgeIcon = L.icon({
       iconUrl: 'circle-48.png',
       iconSize: [13, 13], // size of the icon
@@ -115,21 +115,21 @@
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng,{icon: surgeIcon});
         marker.bindPopup( "<h2>Station Metadata</h2>" + '<hr/>' +  "<h4>Station Name:</h4>  "  
-        +feature.properties.tg + '<br/>' + "<h4>Lon/Lat:</h4>  "+ '[' +feature.properties.lon + ', ' + 
-        feature.properties.lat +  ']' +'<hr/>' + 
+        +feature.properties.tg + '<br/>' + "<h4>Lon/Lat:</h4>  "+ '[' +feature.geometry.coordinates[0] + ', ' + 
+        feature.geometry.coordinates[1] +  ']' +'<hr/>' + 
         
           // ERA-Int
-         '<a href= ' + feature.properties.eraintPath + '><h4>Surge: ERA-Interim</h4></a>' + feature.properties.eraintBest +
+         `<strong><a href= ${feature.properties.eraintPath} <h4>Surge: ERA-Interim ${feature.properties.eraintBest}</h4></a></strong>`  +
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'eraint'>ERA-Interim</span>  - " + feature.properties.yrEraint + " years" + '<br/>' + 
         //  '<hr/>' +
          
           // ERA20C
-         '<a href= ' + feature.properties.era20cPath + '><h4>Surge: ERA20C</h4></a>' + feature.properties.era20cBest +
+         `<strong><a href= ${feature.properties.era20cPath} ><h4>Surge: ERA20C ${feature.properties.era20cBest}</h4></a></strong>`  +
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'era20c'>ERA-20C</span>  - " + feature.properties.yrEra20c + " years" + '<br/>' +
         //  '<hr/>' +
          
         //  20thCR
-         '<a href= ' + feature.properties.twcrPath + '><h4>Surge: 20thCR</h4></a>' + feature.properties.twcrBest +
+         `<a href= ${feature.properties.twcrPath} ><h4>Surge: 20thCR ${feature.properties.twcrBest}</h4></a>` + 
          //  MERRA
          '<a href= ' + feature.properties.merraPath + '><h4>Surge: MERRA</h4></a>' 
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
