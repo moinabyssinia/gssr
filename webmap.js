@@ -104,7 +104,7 @@
 
 
   // load GeoJSON from an external file
-  $.getJSON("./metadata/allMetadataV4.geojson",function(data){
+  $.getJSON("./metadata/allMetadataV5.geojson",function(data){
     var surgeIcon = L.icon({
       iconUrl: 'circle-48.png',
       iconSize: [13, 13], // size of the icon
@@ -119,24 +119,23 @@
         feature.properties.lat +  ']' +'<hr/>' + 
         
           // ERA-Int
-         '<a href= ' + feature.properties.eraintPath + '><h4>Surge: ERA-Interim</h4></a>' + 
+         '<a href= ' + feature.properties.eraintPath + '><h4>Surge: ERA-Interim</h4></a>' + feature.properties.eraintBest +
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'eraint'>ERA-Interim</span>  - " + feature.properties.yrEraint + " years" + '<br/>' + 
         //  '<hr/>' +
          
           // ERA20C
-         '<a href= ' + feature.properties.era20cPath + '><h4>Surge: ERA20C</h4></a>' + 
+         '<a href= ' + feature.properties.era20cPath + '><h4>Surge: ERA20C</h4></a>' + feature.properties.era20cBest +
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'era20c'>ERA-20C</span>  - " + feature.properties.yrEra20c + " years" + '<br/>' +
         //  '<hr/>' +
          
         //  20thCR
-         '<a href= ' + feature.properties.twcrPath + '><h4>Surge: 20thCR</h4></a>' 
-         +
+         '<a href= ' + feature.properties.twcrPath + '><h4>Surge: 20thCR</h4></a>' + feature.properties.twcrBest +
          //  MERRA
          '<a href= ' + feature.properties.merraPath + '><h4>Surge: MERRA</h4></a>' 
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
-         +
+         + feature.properties.merraBest +
          //  ERA-Five
-         '<a href= ' + feature.properties.erafivePath + '><h4>Surge: ERA-Five</h4></a>' 
+         '<a href= ' + feature.properties.erafivePath + '><h4>Surge: ERA-Five</h4></a>' + feature.properties.erafiveBest
         //  "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
         );
         return marker;
