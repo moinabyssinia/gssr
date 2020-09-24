@@ -6,7 +6,7 @@
     zoomControl: false
     //maxBounds: bounds,
     //maxBoundsViscosity: 0.0
-  }).setView([20, 0], 2);
+  }).setView([15, 0], 2);
 
 
   // load a tile layer

@@ -23,7 +23,7 @@ p, ul{
   line-height: 1.75;
 }
 #map{ 
-  height: 75%;
+  height: 600px;
   width: 80%; 
   display: flex;
   margin: 20px auto auto auto;
