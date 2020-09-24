@@ -1,5 +1,95 @@
- 
+
+.info {
+      width: 80%;
+      padding-top: 40px;
+      text-align: middle;
+      margin: 0 auto;
+      text-align: justify;
+      font-size: 1.25em;
+  }
+
+  hr {
+      width: 100%;
+}
+
 body {
+  background-color:rgb(235, 226, 226);
+  /* remove space between body and header */
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p, ul{
+  line-height: 1.75;
+}
+#map{ 
+  height: 75%;
+  width: 80%; 
+  display: flex;
+  margin: 20px auto auto auto;
+  /* position: relative; */
+  /* top: 3%; */
+  /* bottom: 10%; */
+  /* left: 0%;
+  right: 0%; */
+}
+
+.starter {
+  margin-top: 0px;
+  padding: 10px;
+  font-size: 0.95em;
+  color:darkred;
+  background: rgb(236, 157, 223);
+  text-align: center;
+}
+
+.starter h1 {
+  color: black;
+  margin: 0;
+}
+
+h2, h3, h4 {
+  margin-bottom: 0px;
+}
+footer {
+  text-align: center;
+}
+
+#eraint {
+  color: blueviolet;
+}
+#era20c {
+  color: brown;
+}
+#twcr {
+  color: green;
+}
+
+.leaflet-bar a {
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+  /* border-bottom-color: rgb(204, 204, 204); */
+  color: #444;
+  display: block;
+  height: 26px;
+  width: 26px;
+  line-height: 1.45 !important;
+  text-align: center;
+  text-decoration: none;
+  font: bold 18px'Lucida Console', Monaco, monospace;
+}
+
+
+
+
+
+
+
+
+
+
+ 
+/* body {
   background-color:rgb(236, 230, 230);
 }
 #map{ 
@@ -37,9 +127,9 @@ h2, h3, h4 {
 
 .leaflet-bar a {
   background-color: #fff;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #ccc; */
   /* border-bottom-color: rgb(204, 204, 204); */
-  color: #444;
+/*   color: #444;
   display: block;
   height: 26px;
   width: 26px;
@@ -47,5 +137,5 @@ h2, h3, h4 {
   text-align: center;
   text-decoration: none;
   font: bold 18px'Lucida Console', Monaco, monospace;
-}
+} */
 
