@@ -40,14 +40,21 @@ p, ul{
   font-size: 0.95em;
   color:darkred;
   background: rgb(236, 157, 223);
-  text-align: center;
+  /* text-align: center; */
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: space-around;
 }
 
-.starter h1 {
+/* fix the padding/margin of the h2 */
+.starter h1,h2 {
   color: black;
   margin: 0;
 }
+.starter a{
+  text-decoration: none;
 
+}
 h2, h3, h4 {
   margin-bottom: 0px;
 }
