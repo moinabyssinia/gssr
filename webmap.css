@@ -34,6 +34,7 @@ p, ul{
   right: 0%; */
 }
 
+
 .starter {
   margin-top: 0px;
   padding: 10px;
@@ -45,8 +46,9 @@ p, ul{
   /* flex-direction: row; */
   justify-content: space-around;
 }
-
-/* fix the padding/margin of the h2 */
+.contact, h1{
+  font: 5px;
+}
 .starter h1,h2 {
   color: black;
   margin: 0;
