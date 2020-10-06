@@ -87,3 +87,13 @@ footer {
   text-decoration: none;
   font: bold 18px'Lucida Console', Monaco, monospace;
 }
+
+/* contact form */
+input[type = "text"], textarea{
+  width: 500px;
+  height: 200px;
+}
+input[type = "email"]{
+  width: 250px;
+  height: 21px;
+}
