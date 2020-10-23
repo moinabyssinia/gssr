@@ -13,7 +13,7 @@
 }
 
 body {
-  background-color:rgb(235, 226, 226);
+  background-color: #ffffff;
   /* remove space between body and header */
   margin: 0;
   padding: 0;
@@ -37,10 +37,10 @@ p, ul{
 
 .starter {
   margin-top: 0px;
-  padding: 10px;
-  font-size: 0.95em;
+  padding: 15px;
+  font-size: 0.85em;
   color:darkred;
-  background: rgb(236, 157, 223);
+  background:#2c3e50;
   /* text-align: center; */
   display: flex;
   /* flex-direction: row; */
@@ -50,7 +50,7 @@ p, ul{
   font: 5px;
 }
 .starter h1,h2 {
-  color: black;
+  color: white;
   margin: 0;
 }
 .starter a{
