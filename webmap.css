@@ -20,7 +20,11 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 p, ul{
+  font-size: small;
   line-height: 1.75;
+}
+p{
+  font-size: small;
 }
 #map{ 
   height: 600px;
