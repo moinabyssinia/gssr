@@ -90,11 +90,11 @@ footer {
 
 /* contact form */
 input[type = "text"], textarea{
-  width: 500px;
+  width: 800px;
   height: 200px;
 }
 input[type = "email"]{
-  width: 250px;
+  width: 350px;
   height: 26px;
 }
 input[placeholder = "Your email"] {
@@ -102,4 +102,8 @@ input[placeholder = "Your email"] {
 }
 textarea[placeholder = "Type your message"] {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button[type = "submit"]{
+  padding: 4px 10px;
+  font-size: 18px;
 }

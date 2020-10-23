@@ -43,20 +43,26 @@
 
     <strong>1. Background</strong>
 
-    <p>Understanding the stochastic nature of extreme water level events is important for efficient planning and design of coastal defense structures.
-      Unfortunately, a major hurdle in the study of extreme water levels is the lack of data going back in time making it difficult to study the long-term trends 
-      and variabilities in them. As a rule of thumb, extrapolation of extreme water level events should be limited to return periods not longer than four 
-      times the available annual maximum levels. This means in order to extrapolate to a 100 year storm surge event, at least 25 years of available storm 
-      surge data are needed. This, however, is not the reality in most tide gauges as 45% of the tide gauges covered in this study 
-      have less than 25 years of data. Moreover, coastal defense structures are usually designed for a much higher return period than 100 years. Flood defenses 
-      in The Netherlands, for instance,  are designed for a 10,000 year event.</p>
+    <p>Understanding how the storm surge climate has changed in the past is important to predict the future. Unfortunately, 
+      a major hurdle in the study of storm surges is that observational records from tide gauges are often short, making it 
+      difficult to assess long-term trends and decadal variability as well as performing robust statistical analyses. 
+      For example, as a rule of thumb in extreme value analysis, extrapolation should be limited to return periods not longer 
+      than four times the available record length. This means in order to extrapolate to a 100-year storm surge event, at least 
+      25 years of data are needed. However, 45% of the tide gauges in the <a href="https://www.gesla.org/" target="_blank">GESLA-2</a>
+      database have less than 25 years of data, which clearly limits our ability to derive robust statistics and assess long-term changes.</p>
 
-      <strong>2. What we present</strong>
+      <strong>2. What we provide</strong>
 
-      <p>A longer record (1836 - 2019) of quasi-global storm surge reconstruction making use of already developed data-driven models and centennial climate reanalysis data. 
-        The data-driven models employed for surge reconstruction are developed by <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00260/full" 
-        target="_blank">Tadesse et al. (2020).</a>
-        You can download the full surge reconstruction for each dataset from the following links:
+      <p>The Global Storm Surge Reconstruction (GSSR) database includes daily maximum surge values for the past at 882 tide gauges 
+        distributed along the global coastline. The data-driven models employed for the surge reconstruction were developed by 
+        <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00260/full" target="_blank">Tadesse et al. (2020).</a> 
+        We use five different atmospheric reanalysis products with different spatial and temporal resolution to produce 
+        surge information for the periods covered by the different reanalyses. The web-map above allows the user to download daily maximum 
+        surge values for individual tide gauges and reanalysis products. The reanalysis that leads to the best validation results is 
+        marked with "best reconstruction" (note that in some locations data is not available for all reanalyses as there is no overlap in the periods covered 
+        by the tide gauges and the reanalysis). The full surge reconstruction for each reanalysis (comprised of 882 compressed individual .csv files 
+        for the different tide gauges) can be downloaded from the following links:
+
         <ul>
           <li><a href="https://downgit.github.io/#/home?url=https://github.com/moinabyssinia/webmap/tree/gh-pages/20cr" target="_blank">20-CR Surge Reconstruction [1836 - 2015]</a></li>
           <li><a href="https://downgit.github.io/#/home?url=https://github.com/moinabyssinia/webmap/tree/gh-pages/era20c" target="_blank">ERA-20C Surge Reconstruction [1900 - 2010]</a></li>
@@ -66,7 +72,7 @@
         </ul>  
       </p>
 
-      <strong>3. Input Datasets</strong>
+      <strong>3. Predictor and Predictand Datasets</strong>
       <ul>
         <li><a href="https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-interim" target="_blank">ERA-Interim global atmospheric reanalysis</a>,</li>
         <li><a href="https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-20c" target="_blank">ERA-20C global atmospheric reanalysis</a>,</li>
@@ -78,17 +84,18 @@
 
       <strong>4. Methodology</strong>
 
-      <p>The methodology for this study builds on what is implemented by <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00260/full" target="_blank">
+      <p>The data-driven models used to develop GSSR are described in detail in <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00260/full" target="_blank">
         Tadesse et al. (2020).</a></p>
 
       <strong>5. Model Validation</strong>
-      <p>Validation of the data-driven models for the following surge reconstructions during the 1980-2010 period is provided in the following links: 
+      <p>Validation results of the data-driven models for the surge reconstructions derived with the five different reanalysis products can be downloaded through 
+        the following links (note that the validation was carried out for the common period from 1980 to 2010 where all reanalyses have data): 
         <ul>
-          <li><a href="./metadata/twcrMetaData.7z" target="_blank">20-CR Validation</a></li>
-          <li><a href="./metadata/era20cMetaData.7z" target="_blank">ERA-20C Validation</a></li>
-          <li><a href="./metadata/eraintMetaData.7z" target="_blank">ERA-Interim Validation</a></li>
-          <li><a href="./metadata/merraMetaData.7z" target="_blank">MERAA-2 Validation</a></li>
-          <li><a href="./metadata/erafiveMetaData.7z" target="_blank">ERA-Five Validation</a></li>
+          <li><a href="./metadata/validation/twcrValidation.7z" target="_blank">20-CR Validation</a></li>
+          <li><a href="./metadata/validation/era20cValidation.7z" target="_blank">ERA-20C Validation</a></li>
+          <li><a href="./metadata/validation/eraintValidation.7z" target="_blank">ERA-Interim Validation</a></li>
+          <li><a href="./metadata/validation/merraValidation.7z" target="_blank">MERAA-2 Validation</a></li>
+          <li><a href="./metadata/validation/erafiveValidation.7z" target="_blank">ERA-Five Validation</a></li>
         </ul>  
       </p>
 
