@@ -114,32 +114,33 @@
     L.geoJson(data, {
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng,{icon: surgeIcon});
-        marker.bindPopup( "<h2>Station Metadata</h2>" + '<hr style = "width: 100%;">' +  "<h4>Station Name:</h4>  "  
+
+        let popupText = "<h2>Station Metadata</h2>" + '<hr style = "width: 100%;">' +  "<h4>Station Name:</h4>  "  
         +feature.properties.tg + '<br/>' + "<h4>Lon/Lat:</h4>  "+ '[' +feature.geometry.coordinates[0] + ', ' + 
-        feature.geometry.coordinates[1] +  ']' +'<hr/>' + 
-        
-        /* adding path and suffix if it's the best reconstruction */  
-        // ERA-Int
-         `<strong><a href= ${feature.properties.eraintPath} <h4>Surge: ERA-Interim ${feature.properties.eraintBest}</h4></a></strong>`  +
-        //  "<h4>Model Forcing:</h4>  " + "<span id = 'eraint'>ERA-Interim</span>  - " + feature.properties.yrEraint + " years" + '<br/>' + 
-        //  '<hr/>' +
-         
-          // ERA20C
-         `<strong><a href= ${feature.properties.era20cPath} ><h4>Surge: ERA20C ${feature.properties.era20cBest}</h4></a></strong>`  +
-        //  "<h4>Model Forcing:</h4>  " + "<span id = 'era20c'>ERA-20C</span>  - " + feature.properties.yrEra20c + " years" + '<br/>' +
-        //  '<hr/>' +
-         
-        //  20thCR
-         `<strong><a href= ${feature.properties.twcrPath} ><h4>Surge: 20thCR ${feature.properties.twcrBest}</h4></a></strong>` + 
-         
-         //  MERRA
-         `<strong><a href= ${feature.properties.merraPath} ><h4>Surge: MERRA ${feature.properties.merraBest}</h4></a></strong>` +
-        //  "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
-          
-         //  ERA-Five
-         `<strong><a href= ${feature.properties.erafivePath} ><h4>Surge: ERA-Five ${feature.properties.erafiveBest}</h4></a></strong>` 
-        //  "<h4>Model Forcing:</h4>  " + "<span id = 'twcr'>20thCR</span>  - " + feature.properties.yrTwcr + " years" + '<br/>'
-        );
+        feature.geometry.coordinates[1] +  ']' +'<hr/>';
+
+        // ereaint text
+        popupText += (!feature.properties.eraintPath == "") ? 
+        `<strong><a href= ${feature.properties.eraintPath} <h4>Surge: ERA-Interim ${feature.properties.eraintBest}</h4></a></strong>` : '';
+
+        // era20c text
+        popupText += (!feature.properties.era20cPath == "") ? 
+        `<strong><a href= ${feature.properties.era20cPath} ><h4>Surge: ERA20C ${feature.properties.era20cBest}</h4></a></strong>` : '';
+
+        // 20-CR text
+        popupText += (!feature.properties.twcrPath == "") ?
+        `<strong><a href= ${feature.properties.twcrPath} ><h4>Surge: 20-CR ${feature.properties.twcrBest}</h4></a></strong>` : '';
+
+        // MERRA
+        popupText += (!feature.properties.merraPath == "") ?
+        `<strong><a href= ${feature.properties.merraPath} ><h4>Surge: MERRA ${feature.properties.merraBest}</h4></a></strong>` : '';
+
+        // ERA5 text
+        popupText += (!feature.properties.erafivePath == "") ?
+        `<strong><a href= ${feature.properties.erafivePath} ><h4>Surge: ERA5 ${feature.properties.erafiveBest}</h4></a></strong>` : '';
+
+        marker.bindPopup(popupText);
+
         return marker;
       }
     }).addTo(map);
