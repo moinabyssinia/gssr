@@ -97,3 +97,9 @@ input[type = "email"]{
   width: 250px;
   height: 26px;
 }
+input[placeholder = "Your email"] {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+textarea[placeholder = "Type your message"] {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -115,7 +115,7 @@
       pointToLayer: function(feature,latlng){
         var marker = L.marker(latlng,{icon: surgeIcon});
 
-        let popupText = "<h2>Station Metadata</h2>" + '<hr style = "width: 100%;">' +  "<h4>Station Name:</h4>  "  
+        var popupText = "<h2 style = 'color: black;'>Station Metadata</h2>" + '<hr style = "width: 100%;">' +  "<h4>Station Name:</h4>  "  
         +feature.properties.tg + '<br/>' + "<h4>Lon/Lat:</h4>  "+ '[' +feature.geometry.coordinates[0] + ', ' + 
         feature.geometry.coordinates[1] +  ']' +'<hr/>';
 
