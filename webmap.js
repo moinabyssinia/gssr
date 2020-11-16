@@ -144,7 +144,7 @@
   });
  
 
-    // add search capability
+    // add search 
     map.addControl( new L.Control.Search({
       url: 'https://nominatim.openstreetmap.org/search?format=json&accept-language=en-DE&q={s}',
       jsonpParam: 'json_callback',
@@ -152,7 +152,7 @@
       propertyLoc: ['lat','lon'],
       markerLocation: true,
       autoType: true,
-      autoCollapse: true,
+      autoCollapse: false,
       minLength: 2,
       zoom:10,
       text: 'Searching...',
