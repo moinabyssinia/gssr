@@ -40,7 +40,8 @@ p{
 
 
 .starter {
-  margin-top: 0px;
+  width: 78.6%;
+  margin: 0 auto 0 auto;
   padding: 15px;
   font-size: 0.85em;
   color:darkred;
@@ -110,4 +111,68 @@ textarea[placeholder = "Type your message"] {
 button[type = "submit"]{
   padding: 4px 10px;
   font-size: 18px;
+}
+
+.navigation{
+  padding: 0;
+  position: fixed;
+  width: 60px;
+  height: 100%;
+  background: #3e0748;
+  transition: 0.5s;
+  overflow: hidden;
+}
+
+.navigation a {
+  color: white;
+}
+.navigation:hover {
+  width: 185px;
+}
+.navigation ul{
+  padding: 0;
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  color:#fff;
+}
+
+.navigation ul li{
+  position: relative;
+  width: 100%;
+  list-style: none;
+}
+.navigation ul li:hover{
+  background: #ea1d63;
+}
+.navigation ul li a{
+  position: relative;
+  display: none;
+  width: 100%;
+  display: flex;
+  text-decoration: none;
+  color: #fff;
+}
+.navigation ul li a .icon{
+  padding: 0;
+  position: relative;
+  display: block;
+  min-width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+}
+.navigation ul li a .fa{
+  font-size: 24px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navigation ul li a title{
+  position: relative;
+  display: block;
+  padding: 0 10px;
+  height: 60px;
+  line-height: 60px;
+  text-align: start;
+  white-space: nowrap;
 }
