@@ -154,14 +154,15 @@ button[type = "submit"]{
   text-decoration: none;
   color: #fff;
 }
+
 .navigation ul li a .icon{
   padding: 0;
   position: relative;
-  display: block;
+  display: inline;
   min-width: 60px;
   height: 60px;
-  line-height: 60px;
-  text-align: center;
+  line-height: 500px;
+  vertical-align: middle;
 }
 .navigation ul li a .fa{
   font-size: 24px;
@@ -169,10 +170,11 @@ button[type = "submit"]{
 }
 .navigation ul li a title{
   position: relative;
-  display: block;
+  display: inline;
   padding: 0 10px;
   height: 60px;
   line-height: 60px;
   text-align: start;
   white-space: nowrap;
+  vertical-align: middle;
 }
