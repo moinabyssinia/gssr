@@ -31,33 +31,34 @@
 
 </head>
 <body>
-
   <!-- adding responsive sidebar -->
-  <div class="navigation">
+  <nav class="main-menu">
     <ul>
       <li>
         <a href="#">
-          <span class="icon"><i class="fas fa-home"></i></span>
-          <span class="title">Home</span>
+          <i class="fas fa-home"></i>
+          <span class="nav-text" style="text-align: left;">Home</span>
         </a>
       </li>
       
       <li>
         <a href="#">
-          <span class="icon"><i class="fas fa-laptop-medical"></i></span>
-          <span class="title">Validation</span>
+          <i class="fas fa-laptop fa-2x"></i>
+          <span class="nav-text" style="text-align: left;">Validation</span>
         </a>
       </li>
 
-      <li>
-        <a href="#">
-          <span class="icon"><i class="fas fa-address-book"></i></span>
-          <span class="title"> Contact Us</span>
-        </a>
-      </li>
+      <div class="scroll-down" onClick = "scrollToBottom()">
+        <li>
+          <a href="#bottom">
+            <i class="fas fa-address-book"></i>
+            <span class="nav-text" id="btn" style="text-align: left;"> Contact Us</span>
+          </a>
+        </li>
 
+      </div>
     </ul>
-  </div>
+  </nav>
 
   <!-- adding navbar -->
   <div class="starter">
@@ -73,8 +74,7 @@
 
 
   <div class="info">
-
-    <h3><strong>1. Background</strong></h3>
+    <h3 id="background"><strong>1. Background</strong></h3>
 
     <p>Understanding how the storm surge climate has changed in the past is important to predict the future. Unfortunately, 
       a major hurdle in the study of storm surges is that observational records from tide gauges are often short, making it 
@@ -105,7 +105,7 @@
         </ul>  
       </p>
 
-      <h3><strong>3. Predictor and Predictand Datasets</strong></h3> 
+      <h3 id="dataset"><strong>3. Predictor and Predictand Datasets</strong></h3> 
       <ul>
         <li><a href="https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-interim" target="_blank">ERA-Interim global atmospheric reanalysis</a>,</li>
         <li><a href="https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-20c" target="_blank">ERA-20C global atmospheric reanalysis</a>,</li>
@@ -161,5 +161,6 @@
 
   <!-- javascript file -->
   <script type="text/javascript" src="webmap.js"></script>
+  <script type="text/javascript" src="scripts.js"></script>
 </body>
 </html>
