@@ -30,11 +30,11 @@ p{
   height: 600px;
   width: 80%; 
   display: flex;
-  margin: 20px auto auto auto;
-  /* position: relative; */
-  /* top: 3%; */
-  /* bottom: 10%; */
-  /* left: 0%;
+  margin: 8px auto auto auto;
+  /* position: relative;
+  top: 3%;
+  bottom: 10%;
+  left: 0%;
   right: 0%; */
 }
 
@@ -182,6 +182,7 @@ button[type = "submit"]{
 /* new nav styles */
 .fa-2x {
   font-size: 2em;
+  margin-left: 0;
   }
   .fa {
   position: relative;
@@ -191,9 +192,12 @@ button[type = "submit"]{
   text-align: center;
   vertical-align: middle;
   font-size:20px;
+  padding-right: 0;
+  margin-right: 0;
+  margin-left: 0;
   }
 .main-menu:hover,nav.main-menu.expanded {
-  width:175px;
+  width:185px;
   overflow:visible;
   }
 .main-menu {
@@ -204,7 +208,7 @@ button[type = "submit"]{
   bottom:0;
   height:100%;
   left:0;
-  width:60px;
+  width:75px;
   overflow:hidden;
   transition:width .05s linear;
   transition:width .05s linear;
@@ -217,7 +221,6 @@ button[type = "submit"]{
   
 .main-menu li {
   position:relative;
-  text-align: left;
   display:block;
   width:150px; 
   margin:30px 0 30px 0px;
@@ -227,7 +230,8 @@ button[type = "submit"]{
 }
 
 .main-menu li>a {
-  text-align: left;
+  margin-left:10px;
+  width: 165px;
   position:relative;
   display:table;
   border-collapse:collapse;
@@ -240,9 +244,7 @@ button[type = "submit"]{
   transition:all .1s linear;
   transition:all .1s linear;
 }
-/* .main-menu span{
-  width:100%;
-} */
+
 .main-menu .fas {
   position:relative;
   display:table-cell;
@@ -257,7 +259,6 @@ button[type = "submit"]{
   position:relative;
   display:table-cell;
   vertical-align:middle;
-  text-align: left;
   color: white;
   /* width:190px; */
   font-family: 'Titillium Web', sans-serif;
@@ -313,3 +314,18 @@ button[type = "submit"]{
     src: local('Titillium WebLight'), local('TitilliumWeb-Light'), url(http://themes.googleusercontent.com/static/fonts/titilliumweb/v2/anMUvcNT0H1YN4FII8wpr24bNCNEoFTpS2BTjF6FB5E.woff) format('woff');
   }
   
+  /* sidebar */
+  #myProgress {
+    /* width: 60%; */
+    margin: 5px auto 0px auto;
+    display: flex;
+    width: 80%;
+    text-align: middle;
+    background-color: grey;    
+  }
+
+  #myBar {
+    width: 1%;
+    height: 10px;
+    background-color: cyan;
+  }
