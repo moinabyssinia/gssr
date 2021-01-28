@@ -329,3 +329,8 @@ button[type = "submit"]{
     height: 10px;
     background-color: cyan;
   }
+  #contact{
+    transition: border 3000ms linear 0s;
+    border-spacing: 20px 20px;
+    width: 60%;
+  }
