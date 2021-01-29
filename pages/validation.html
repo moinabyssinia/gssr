@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validation</title>
+    
+    <!-- style -->
+    <link rel="stylesheet" type="text/css" href="../webmap.css">
+      <!-- Font Awesome CDN -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" 
+    integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
+    
+    <script src="../jquery-2.1.1.min.js"></script> 
+
+</head>
+<body>
+
+
+ <!-- adding navbar -->
+ <div class="starter">
+    <div class="title">
+      <h1>GSSR - Technical Validation </h1>
+    </div>
+  </div>
+
+  <!-- adding  sidebar-->
+  <!-- <div id="myProgress">
+      <div id="myBar"></div>
+  </div> -->
+
+
+  <div class="info">
+    <h3 id="background"><strong>1. Background</strong></h3>
+
+    <p>We validate the surge reconstructions for the different reanalysis products and individual 
+        tide gauges using a 10-fold cross-validation. As the five reanalysis products have different 
+        start and end times, the validation periods (or fold sizes) for which the performance metrics 
+        are derived are also different (surge reconstructions derived with the longer-term reanalyses 
+        have longer validation periods). The validation results are provided in the metadata section of 
+        the corresponding surge reconstruction (refer Table 2 for the respective DOIs). </p>
+
+    <img class = "fig" src="../images/figure2-1.png" alt=""> <br>
+    <img class = "fig" src="../images/figure3-1.png" alt=""> <br>
+    <img class = "fig" src="../images/figure4-1.png" alt=""> <br>
+    <img class = "fig" src="../images/figure5-1.png" alt="">
+
+  </div>
+
+    <footer> <small>&copy; <span class="currentYear"></span> Michael Getachew Tadesse</small> </footer> 
+
+    <!-- javascript file -->
+    <script type="text/javascript" src="scripts.js"></script>
+
+    <script>
+        //   update page year
+        var d = new Date();
+        $("span.currentYear").text(d.getFullYear());
+        $("span").css("text-align", "center");
+    </script>
+</body>
+</html>

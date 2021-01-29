@@ -334,3 +334,12 @@ button[type = "submit"]{
     border-spacing: 20px 20px;
     width: 60%;
   }
+  .fig-schematic {
+    object-fit: cover;
+    height: 670px;
+  }
+  .fig {
+    object-fit: cover;
+    height: 800px;
+    text-align: center;
+  }
