@@ -41,7 +41,7 @@ p{
 
 .starter {
   /* width: 78.6%; */
-  width: 100%;
+  width: 98.2%;
   margin: 0 auto 0 auto;
   padding: 15px;
   font-size: 0.85em;
@@ -366,4 +366,11 @@ button[type = "submit"]{
   }
   footer a {
     color: rgb(80, 184, 202);
+  }
+
+  /* validation styles */
+  .fig {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
