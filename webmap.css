@@ -216,7 +216,7 @@ button[type = "submit"]{
   bottom:0;
   height:100%;
   left:0;
-  width:75px;
+  width:72px;
   overflow:hidden;
   transition:width .05s linear;
   transition:width .05s linear;
@@ -263,14 +263,26 @@ button[type = "submit"]{
   font-size:18px;
   }
   
+  .main-menu .fab {
+    position:relative;
+    display:table-cell;
+    width:60px;
+    height:36px;
+    text-align:center;
+    vertical-align:middle;
+    font-size:18px;
+    }
+
+
   .main-menu .nav-text {
-  position:relative;
-  display:table-cell;
-  vertical-align:middle;
-  color: white;
-  /* width:190px; */
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 18px;
+    text-align: center;
+    position:relative;
+    display:table-cell;
+    vertical-align:middle;
+    color: white;
+    /* width:190px; */
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
 }
   
 .main-menu>ul.logout {
@@ -373,4 +385,14 @@ button[type = "submit"]{
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+  .iconify {
+    content: url('https://api.iconify.design/simple-icons:figshare.svg?height=24');
+    vertical-align: -0.125em;  
+    position:relative;
+    display:table-cell;
+    width:60px;
+    height:25px;
+    vertical-align:middle;
+    font-size:18px;
   }
