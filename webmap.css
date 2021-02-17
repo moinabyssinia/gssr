@@ -40,7 +40,8 @@ p{
 
 
 .starter {
-  width: 78.6%;
+  /* width: 78.6%; */
+  width: 100%;
   margin: 0 auto 0 auto;
   padding: 15px;
   font-size: 0.85em;
@@ -66,7 +67,14 @@ h2, h3, h4 {
   margin-bottom: 0px;
 }
 footer {
+  width: 100%;
   text-align: center;
+  margin: 0 auto 0 auto;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(44, 62, 80);
 }
 
 #eraint {
@@ -342,4 +350,20 @@ button[type = "submit"]{
     object-fit: cover;
     height: 800px;
     text-align: center;
+  }
+  .license {
+    margin: 20px;
+  }
+
+  .license a {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+  }
+  footer p {
+    margin-bottom: 0px;
+    font-size: 15px;
+  }
+  footer a {
+    color: rgb(80, 184, 202);
   }
