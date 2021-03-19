@@ -144,21 +144,21 @@
   });
  
 
-    // add search 
-    map.addControl( new L.Control.Search({
-      url: 'https://nominatim.openstreetmap.org/search?format=json&accept-language=en-DE&q={s}',
-      jsonpParam: 'json_callback',
-      propertyName: 'display_name',
-      propertyLoc: ['lat','lon'],
-      markerLocation: true,
-      autoType: true,
-      autoCollapse: false,
-      minLength: 2,
-      zoom:10,
-      text: 'Searching...',
-      textCancel: 'Cancel',
-      textErr: 'No Tide Gauge Found'
-    }) );
+    // // add search 
+    // map.addControl( new L.Control.Search({
+    //   url: 'https://nominatim.openstreetmap.org/search?format=json&accept-language=en-DE&q={s}',
+    //   jsonpParam: 'json_callback',
+    //   propertyName: 'display_name',
+    //   propertyLoc: ['lat','lon'],
+    //   markerLocation: true,
+    //   autoType: true,
+    //   autoCollapse: false,
+    //   minLength: 2,
+    //   zoom:10,
+    //   text: 'Searching...',
+    //   textCancel: 'Cancel',
+    //   textErr: 'No Tide Gauge Found'
+    // }) );
 
 //   update page year
 var d = new Date();
