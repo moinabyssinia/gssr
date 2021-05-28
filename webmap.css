@@ -396,3 +396,45 @@ button[type = "submit"]{
     vertical-align:middle;
     font-size:18px;
   }
+
+  /* sticky to-top button */
+  .top-link {
+    transition: all .25s ease-in-out;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: inline-flex;
+     
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    margin: 0 3em 3em 0;
+    border-radius: 50%;
+    padding: .25em;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(33, 33, 33);
+  }
+  .show {
+    visibility: visible;
+    opacity: 1;
+  }
+   
+  .hide {
+    visibility: hidden;
+    opacity: 0;
+  }
+  svg {
+    fill: rgb(255, 255, 255);
+    width: 20px;
+    height: 10px;
+   }
+    
+   .top-link:hover {
+      background-color: rgb(147, 222, 224);
+   }
+   
+   .top-link:hover svg{
+      fill: #000000;   
+    }
+   
