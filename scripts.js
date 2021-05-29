@@ -12,6 +12,8 @@ function scrollToBottom () {
 }
 
 
+/* to-top button */
+
 // Set a variable for our button element.
 const scrollToTopButton = document.getElementById('js-top');
 const scrollFunc = () => {
@@ -47,3 +49,32 @@ scrollToTopButton.onclick = function(e) {
    e.preventDefault();
    scrollToTop();
  }
+
+
+
+
+
+ /* scroll progress bar  
+    source: https://medium.com/@nilayvishwakarma/build-a-scroll-progress-bar-with-vanilla-js-in-10-minutes-or-less-4ba07e2554f3
+ */
+ document.addEventListener(
+   "scroll",
+   function() {
+     console.log("now scrolling");
+     var scrollTop =
+       document.documentElement["scrollTop"] || document.body["scrollTop"];
+
+     // changed document.documentElement.clientHeight to document.body.clientHeight  
+     var scrollBottom = document.body["scrollHeight"] - document.body.clientHeight;
+       
+     /* (document.documentElement["scrollHeight"] ||
+         document.body["scrollHeight"]) - document.body.clientHeight;
+ */
+
+     scrollPercent = scrollTop / scrollBottom * 100 + "%";
+     document
+       .getElementById("_progress")
+       .style.setProperty("--scroll", scrollPercent);
+   },
+   { passive: true }
+ );
