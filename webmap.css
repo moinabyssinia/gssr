@@ -39,6 +39,38 @@ p{
 }
 
 
+/* mobile version styles */
+@media(min-width: 360px){
+  #map {
+    width: 80% !important;
+    height: 500px;
+    margin: 20px auto auto 150px;
+  }
+  .fig-schematic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 500px;
+    object-fit: scale-down;
+  }
+  .info {
+    margin-right:50px;
+  }
+}
+
+
+/* laptop version */
+@media(min-width: 1440px){
+  #map {
+    width: 80% !important;
+  }
+  .starter h1 {
+    color:white !important;
+  }
+}
+
+
+
 .starter {
   /* width: 78.6%; */
   width: 98.2%;
