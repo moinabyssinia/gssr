@@ -56,6 +56,10 @@ p{
   .info {
     margin-right:50px;
   }
+  .title {
+    margin-left: 100px;
+  }
+
 }
 
 
@@ -63,9 +67,23 @@ p{
 @media(min-width: 1440px){
   #map {
     width: 80% !important;
+    height: 600px;
+    margin: 8px auto auto auto;
   }
-  .starter h1 {
-    color:white !important;
+  .fig-schematic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 500px;
+    object-fit: scale-down;
+  }
+  .info {
+    width: 80%;
+    padding-top: 40px;
+    text-align: middle;
+    margin: 0 auto;
+    text-align: justify;
+    font-size: 1.25em;
   }
 }
 
