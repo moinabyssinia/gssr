@@ -499,3 +499,10 @@ button[type = "submit"]{
       top:0px;
       z-index: 100;
   }
+
+  /* changepoint page styles */
+  .cpt {
+    text-align: center;
+    justify-content: center;
+    margin: 400px auto 100px auto !important;
+  }
