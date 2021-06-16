@@ -41,6 +41,22 @@ const satellite = L.tileLayer(mUrl1, {attribution: mAttr1}),
 
 L.control.layers(baseLayers).addTo(map);
 
+// full screen option
+map.addControl(new L.Control.Fullscreen());
+
+map.isFullscreen() // Is the map fullscreen?
+map.toggleFullscreen() // Either go fullscreen, or cancel the existing fullscreen.
+
+// `fullscreenchange` Event that's fired when entering or exiting fullscreen.
+map.on('fullscreenchange', function () {
+    if (map.isFullscreen()) {
+        console.log('entered fullscreen');
+    } else {
+        console.log('exited fullscreen');
+    }
+});
+
+
 
   // custom zoom bar control that includes a Zoom Home function
 L.Control.zoomHome = L.Control.extend({
