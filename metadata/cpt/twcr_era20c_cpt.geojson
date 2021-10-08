@@ -1,0 +1,6662 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.883,68.71 ]
+    },
+    "properties": {
+    "tg":"aasiaat,greenland_001",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":1,
+    "era20c_yrsGained":69,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.28,44.017 ]
+    },
+    "properties": {
+    "tg":"abashiri_japan",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":51,
+    "era20c_yrsGained":59,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1908",
+    "twcr_recLen":107,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":56,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0745,57.143 ]
+    },
+    "properties": {
+    "tg":"aberdeen_p038_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":65,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1864",
+    "twcr_recLen":151,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":106,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.63,51.863 ]
+    },
+    "properties": {
+    "tg":"adak,alaska_040a_usa",
+    "era20c_vi":"1943",
+    "era20c_recLen":67,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":55,
+    "era20c_yrsGained":12,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":85,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7628,41.923 ]
+    },
+    "properties": {
+    "tg":"ajaccio_aspretto_france",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":10,
+    "era20c_yrsGained":100,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":130,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3,37.772 ]
+    },
+    "properties": {
+    "tg":"alameda_navalairstation__usa",
+    "era20c_vi":"1939",
+    "era20c_recLen":71,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":35,
+    "era20c_yrsGained":36,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1934",
+    "twcr_recLen":81,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":46,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.88,-35.024 ]
+    },
+    "properties": {
+    "tg":"albany_001_australia",
+    "era20c_vi":"1994",
+    "era20c_recLen":16,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":38,
+    "era20c_yrsGained":-22,
+    "era20c_yrsGainedSign":"(-30)-(-15)",
+    "twcr_vi":"1953",
+    "twcr_recLen":62,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":24,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1392,39.835 ]
+    },
+    "properties": {
+    "tg":"alcudia_alcudia_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":5,
+    "era20c_yrsGained":105,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1899",
+    "twcr_recLen":116,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":111,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37,65.6 ]
+    },
+    "properties": {
+    "tg":"ammassalik_297a_denmark",
+    "era20c_vi":"1971",
+    "era20c_recLen":39,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":5,
+    "era20c_yrsGained":34,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1971",
+    "twcr_recLen":44,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":39,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.506,43.625 ]
+    },
+    "properties": {
+    "tg":"ancona_ancona_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":93,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":123,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.15,69.317 ]
+    },
+    "properties": {
+    "tg":"andenes_001",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":12,
+    "era20c_yrsGained":98,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1925",
+    "twcr_recLen":90,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":78,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -27.24,38.65 ]
+    },
+    "properties": {
+    "tg":"angra_heroismo_b_215b_portugal",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":11,
+    "era20c_yrsGained":99,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1876",
+    "twcr_recLen":139,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":128,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.482,38.983 ]
+    },
+    "properties": {
+    "tg":"annapolis_navalacademy__usa",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":61,
+    "era20c_yrsGained":49,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":82,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.982,29.727 ]
+    },
+    "properties": {
+    "tg":"apalachicola_usa",
+    "era20c_vi":"1938",
+    "era20c_recLen":72,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":19,
+    "era20c_yrsGained":53,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1851",
+    "twcr_recLen":164,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":145,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1636,44.665 ]
+    },
+    "properties": {
+    "tg":"arcachon_eyrac_",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":12,
+    "era20c_yrsGained":77,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":128,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.71,38.913 ]
+    },
+    "properties": {
+    "tg":"arena_cove,_ca_573a_usa",
+    "era20c_vi":"1934",
+    "era20c_recLen":76,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":18,
+    "era20c_yrsGained":58,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1935",
+    "twcr_recLen":80,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":62,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.77,46.208 ]
+    },
+    "properties": {
+    "tg":"astoria,or_572a_usa",
+    "era20c_vi":"1947",
+    "era20c_recLen":63,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":86,
+    "era20c_yrsGained":-23,
+    "era20c_yrsGainedSign":"(-30)-(-15)",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":-19,
+    "twcr_yrsGainedSign":"(-30)-(-15)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.418,39.355 ]
+    },
+    "properties": {
+    "tg":"atlantic_city_264a_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":94,
+    "era20c_yrsGained":-24,
+    "era20c_yrsGainedSign":"(-30)-(-15)",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":49,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77,-36.85 ]
+    },
+    "properties": {
+    "tg":"auckland_070a_new_zealand",
+    "era20c_vi":"1920",
+    "era20c_recLen":90,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":5,
+    "era20c_yrsGained":85,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":62,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5,38.3 ]
+    },
+    "properties": {
+    "tg":"ayukawa_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":21,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1944",
+    "twcr_recLen":71,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":26,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.533,45.3 ]
+    },
+    "properties": {
+    "tg":"bakar_bakar_I_croatia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":40,
+    "era20c_yrsGained":70,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":100,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.578,39.267 ]
+    },
+    "properties": {
+    "tg":"baltimore_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":65,
+    "era20c_yrsGained":5,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":78,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.6695,54.665 ]
+    },
+    "properties": {
+    "tg":"bangor_p662_uk",
+    "era20c_vi":"1947",
+    "era20c_recLen":63,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":48,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1910",
+    "twcr_recLen":105,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":90,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.163,41.342 ]
+    },
+    "properties": {
+    "tg":"barcelona_barcelona_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":88,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":121,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.205,44.392 ]
+    },
+    "properties": {
+    "tg":"barharbor,frenchmanbay,me_usa",
+    "era20c_vi":"1931",
+    "era20c_recLen":79,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":49,
+    "era20c_yrsGained":30,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.0452,52.719 ]
+    },
+    "properties": {
+    "tg":"barmouth_p923_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":16,
+    "era20c_yrsGained":73,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1868",
+    "twcr_recLen":147,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":131,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.903,55.756 ]
+    },
+    "properties": {
+    "tg":"barseback_001_sweden",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":88,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":113,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5148,43.527 ]
+    },
+    "properties": {
+    "tg":"bayonne_boucau_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":36,
+    "era20c_yrsGained":74,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":104,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.05,43.357 ]
+    },
+    "properties": {
+    "tg":"bilbao_bilbao_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":88,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":118,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.35,-46.6 ]
+    },
+    "properties": {
+    "tg":"bluff_072a_new_zealand",
+    "era20c_vi":"1980",
+    "era20c_recLen":30,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":13,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":51,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.34,36.8 ]
+    },
+    "properties": {
+    "tg":"bonanza_bonanza_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":88,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1853",
+    "twcr_recLen":162,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":140,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.052,42.355 ]
+    },
+    "properties": {
+    "tg":"boston,ma_741a_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":90,
+    "era20c_yrsGained":-20,
+    "era20c_yrsGainedSign":"(-30)-(-15)",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":53,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5777,50.727 ]
+    },
+    "properties": {
+    "tg":"boulogne_sur_mer_",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":23,
+    "era20c_yrsGained":66,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1865",
+    "twcr_recLen":150,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":127,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8749,50.714 ]
+    },
+    "properties": {
+    "tg":"bournemouth_p988_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":72,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1867",
+    "twcr_recLen":148,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":131,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.5,48.383 ]
+    },
+    "properties": {
+    "tg":"brest_",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":150,
+    "era20c_yrsGained":-61,
+    "era20c_yrsGainedSign":"(-60)-(-30)",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":-10,
+    "twcr_yrsGainedSign":"(-15)-(0)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.182,41.173 ]
+    },
+    "properties": {
+    "tg":"bridgeport_usa",
+    "era20c_vi":"1938",
+    "era20c_recLen":72,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":27,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":98,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.64,-33.327 ]
+    },
+    "properties": {
+    "tg":"bunbury_006_australia",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":38,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1966",
+    "twcr_recLen":49,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":11,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.91,-41.5 ]
+    },
+    "properties": {
+    "tg":"burnie_344a_australia",
+    "era20c_vi":"1973",
+    "era20c_recLen":37,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":20,
+    "era20c_yrsGained":17,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":50,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2833,36.533 ]
+    },
+    "properties": {
+    "tg":"cadiz_cadi_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":48,
+    "era20c_yrsGained":62,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1143,39.21 ]
+    },
+    "properties": {
+    "tg":"cagliari_cagliari_italy",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":53,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1852",
+    "twcr_recLen":163,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":146,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8677,50.969 ]
+    },
+    "properties": {
+    "tg":"calais_",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":30,
+    "era20c_yrsGained":59,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":113,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.068,38.573 ]
+    },
+    "properties": {
+    "tg":"cambridgeii_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":34,
+    "era20c_yrsGained":36,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":109,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -47.925,-25.017 ]
+    },
+    "properties": {
+    "tg":"cananeia_281a_brazil",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":52,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1956",
+    "twcr_recLen":59,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":7,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.96,38.968 ]
+    },
+    "properties": {
+    "tg":"capemay_usa",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":42,
+    "era20c_yrsGained":26,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":101,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.06,-19.277 ]
+    },
+    "properties": {
+    "tg":"cape_ferguson_343a_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":21,
+    "era20c_yrsGained":89,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.96,38.968 ]
+    },
+    "properties": {
+    "tg":"cape_may,nj_746a_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":41,
+    "era20c_yrsGained":29,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":102,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.433,-33.9 ]
+    },
+    "properties": {
+    "tg":"cape_town_704a_south_africa",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":28,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1967",
+    "twcr_recLen":48,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":20,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3095,39.148 ]
+    },
+    "properties": {
+    "tg":"carloforte_carloforte_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":12,
+    "era20c_yrsGained":98,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":128,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.66,-24.884 ]
+    },
+    "properties": {
+    "tg":"carnarvon_008_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":27,
+    "era20c_yrsGained":83,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.4167,38.692 ]
+    },
+    "properties": {
+    "tg":"cascais_209a_portugal",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":41,
+    "era20c_yrsGained":69,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":99,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.53,-66.283 ]
+    },
+    "properties": {
+    "tg":"casey_130a_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":9,
+    "era20c_yrsGained":101,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.1833,51.533 ]
+    },
+    "properties": {
+    "tg":"castletownsend_835a_ireland",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":4,
+    "era20c_yrsGained":85,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":136,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.032,29.135 ]
+    },
+    "properties": {
+    "tg":"cedarkeyii_usa",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":18,
+    "era20c_yrsGained":51,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1869",
+    "twcr_recLen":146,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":128,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.3167,35.9 ]
+    },
+    "properties": {
+    "tg":"ceuta_ceta_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":65,
+    "era20c_yrsGained":45,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":75,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.32,43.345 ]
+    },
+    "properties": {
+    "tg":"charleston,or_575a_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":34,
+    "era20c_yrsGained":36,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1950",
+    "twcr_recLen":65,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":31,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.925,32.782 ]
+    },
+    "properties": {
+    "tg":"charleston,sc_261a_usa",
+    "era20c_vi":"1964",
+    "era20c_recLen":46,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":90,
+    "era20c_yrsGained":-44,
+    "era20c_yrsGainedSign":"(-60)-(-30)",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":50,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.56,-43.947 ]
+    },
+    "properties": {
+    "tg":"chatham_079a_new_zealand",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":6,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":61,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.113,36.967 ]
+    },
+    "properties": {
+    "tg":"chesapeake_bbt_749a_usa",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":38,
+    "era20c_yrsGained":30,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":105,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.87,35.75 ]
+    },
+    "properties": {
+    "tg":"choshigyoko_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":38,
+    "era20c_yrsGained":28,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1944",
+    "twcr_recLen":71,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":33,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.79,42.094 ]
+    },
+    "properties": {
+    "tg":"civitavecchia_civitavecchia_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":10,
+    "era20c_yrsGained":100,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1900",
+    "twcr_recLen":115,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":105,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.832,27.977 ]
+    },
+    "properties": {
+    "tg":"clearwater_bch,fl_773a_usa",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":52,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1869",
+    "twcr_recLen":146,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":129,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9072,47.874 ]
+    },
+    "properties": {
+    "tg":"concarneau_",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":14,
+    "era20c_yrsGained":75,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":126,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.75,60.558 ]
+    },
+    "properties": {
+    "tg":"cordova_b,alaska_583b_usa",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":42,
+    "era20c_yrsGained":26,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1942",
+    "twcr_recLen":73,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":31,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.117,12.283 ]
+    },
+    "properties": {
+    "tg":"corinto_679a_nicaragua",
+    "era20c_vi":"1994",
+    "era20c_recLen":16,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":1,
+    "era20c_yrsGained":15,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.217,27.58 ]
+    },
+    "properties": {
+    "tg":"corpus_cristi,tx_770a_usa",
+    "era20c_vi":"1939",
+    "era20c_recLen":71,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":25,
+    "era20c_yrsGained":46,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4,43.367 ]
+    },
+    "properties": {
+    "tg":"coruna_coru_spain",
+    "era20c_vi":"1955",
+    "era20c_recLen":55,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":66,
+    "era20c_yrsGained":-11,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":74,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.18,41.745 ]
+    },
+    "properties": {
+    "tg":"crescent_city,ca_556a_usa",
+    "era20c_vi":"1939",
+    "era20c_recLen":71,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":69,
+    "era20c_yrsGained":2,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1935",
+    "twcr_recLen":80,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":11,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7167,53.867 ]
+    },
+    "properties": {
+    "tg":"cuxhaven_germany",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":98,
+    "era20c_yrsGained":12,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":42,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.66,38.925 ]
+    },
+    "properties": {
+    "tg":"dalian_a_630a_china",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":16,
+    "era20c_yrsGained":52,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.075,30.25 ]
+    },
+    "properties": {
+    "tg":"dauphin_island,_al_763a_usa",
+    "era20c_vi":"1935",
+    "era20c_recLen":75,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":12,
+    "era20c_yrsGained":63,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1854",
+    "twcr_recLen":161,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":149,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.5,-68 ]
+    },
+    "properties": {
+    "tg":"davis,australia_001",
+    "era20c_vi":"1945",
+    "era20c_recLen":65,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":6,
+    "era20c_yrsGained":59,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.967,-68.45 ]
+    },
+    "properties": {
+    "tg":"davis_173a_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":95,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9331,53.326 ]
+    },
+    "properties": {
+    "tg":"delfzijl_del_nl",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":65,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1866",
+    "twcr_recLen":149,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":104,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.7464,52.965 ]
+    },
+    "properties": {
+    "tg":"denhelder_hel_nl",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":44,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1865",
+    "twcr_recLen":150,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":105,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.1852,50.368 ]
+    },
+    "properties": {
+    "tg":"devonport_p002_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":67,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":118,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0845,49.929 ]
+    },
+    "properties": {
+    "tg":"dieppe_",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":38,
+    "era20c_yrsGained":51,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1865",
+    "twcr_recLen":150,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":112,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0883,47.306 ]
+    },
+    "properties": {
+    "tg":"donges_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":24,
+    "era20c_yrsGained":86,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":116,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3181,51.117 ]
+    },
+    "properties": {
+    "tg":"dover_p012_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":51,
+    "era20c_yrsGained":38,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":89,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.74,36.183 ]
+    },
+    "properties": {
+    "tg":"duck_pier,nc_260a_usa",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":34,
+    "era20c_yrsGained":34,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":106,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.01,-66.662 ]
+    },
+    "properties": {
+    "tg":"dumont_d_urville_189a_france",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":2,
+    "era20c_yrsGained":108,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3667,51.048 ]
+    },
+    "properties": {
+    "tg":"dunkerque_",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":41,
+    "era20c_yrsGained":48,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":99,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.54,53.88 ]
+    },
+    "properties": {
+    "tg":"dutch_harbor_b,ak_041b_usa",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":35,
+    "era20c_yrsGained":34,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1944",
+    "twcr_recLen":71,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":36,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4333,55.467 ]
+    },
+    "properties": {
+    "tg":"esbjerg_130121_denmark",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":62,
+    "era20c_yrsGained":48,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1866",
+    "twcr_recLen":149,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":87,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.89,-33.861 ]
+    },
+    "properties": {
+    "tg":"esperance_010_australia",
+    "era20c_vi":"1994",
+    "era20c_recLen":16,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":-23,
+    "era20c_yrsGainedSign":"(-30)-(-15)",
+    "twcr_vi":"1953",
+    "twcr_recLen":62,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":23,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.9,-33.867 ]
+    },
+    "properties": {
+    "tg":"esperence,australia_001",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":11,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1952",
+    "twcr_recLen":63,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":52,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3484,51.957 ]
+    },
+    "properties": {
+    "tg":"felixstowe_p204_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":21,
+    "era20c_yrsGained":68,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":119,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.467,30.672 ]
+    },
+    "properties": {
+    "tg":"fernandina_beach_240a_usa",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":51,
+    "era20c_yrsGained":18,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1851",
+    "twcr_recLen":164,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":113,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.326,43.463 ]
+    },
+    "properties": {
+    "tg":"ferrol_ferrol_spain",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":8,
+    "era20c_yrsGained":81,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":132,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.9833,52.014 ]
+    },
+    "properties": {
+    "tg":"fishguard_p055_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":44,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":95,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -31.168,39.378 ]
+    },
+    "properties": {
+    "tg":"flores,santa_cruz_210a_portugal",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":44,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1860",
+    "twcr_recLen":155,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":133,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.871,26.648 ]
+    },
+    "properties": {
+    "tg":"fortmyers_usa",
+    "era20c_vi":"1939",
+    "era20c_recLen":71,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":54,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1869",
+    "twcr_recLen":146,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":129,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.902,32.033 ]
+    },
+    "properties": {
+    "tg":"fortpulaski_usa",
+    "era20c_vi":"1946",
+    "era20c_recLen":64,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":61,
+    "era20c_yrsGained":3,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":82,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.902,32.033 ]
+    },
+    "properties": {
+    "tg":"fort_pulaski,ga_752a_usa",
+    "era20c_vi":"1946",
+    "era20c_recLen":64,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":72,
+    "era20c_yrsGained":-8,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":68,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.308,28.948 ]
+    },
+    "properties": {
+    "tg":"freeport_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":52,
+    "era20c_yrsGained":18,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1876",
+    "twcr_recLen":139,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":87,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.75,-32.053 ]
+    },
+    "properties": {
+    "tg":"fremantle_012_australia",
+    "era20c_vi":"1953",
+    "era20c_recLen":57,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":96,
+    "era20c_yrsGained":-39,
+    "era20c_yrsGainedSign":"(-60)-(-30)",
+    "twcr_vi":"1953",
+    "twcr_recLen":62,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":-34,
+    "twcr_yrsGainedSign":"(-60)-(-30)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.01,48.547 ]
+    },
+    "properties": {
+    "tg":"fridayharbor_ocean.labs.__usa",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":20,
+    "era20c_yrsGained":46,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":50,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.85,28.5 ]
+    },
+    "properties": {
+    "tg":"fuerteventura_fuerteventura_spain",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":11,
+    "era20c_yrsGained":58,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":129,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.93,40.65 ]
+    },
+    "properties": {
+    "tg":"fukaura_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":41,
+    "era20c_yrsGained":25,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":29,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.907,32.64 ]
+    },
+    "properties": {
+    "tg":"funchal_b_218b_portugal",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":25,
+    "era20c_yrsGained":85,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":113,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.79,29.287 ]
+    },
+    "properties": {
+    "tg":"galveston,pier_21_775a_usa",
+    "era20c_vi":"1939",
+    "era20c_recLen":71,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":102,
+    "era20c_yrsGained":-31,
+    "era20c_yrsGainedSign":"(-60)-(-30)",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":38,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.36,-38.147 ]
+    },
+    "properties": {
+    "tg":"geelong_013_australia",
+    "era20c_vi":"1950",
+    "era20c_recLen":60,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":29,
+    "era20c_yrsGained":31,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":39,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.61,-28.773 ]
+    },
+    "properties": {
+    "tg":"geraldton_014_australia",
+    "era20c_vi":"1960",
+    "era20c_recLen":50,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":11,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.698,43.558 ]
+    },
+    "properties": {
+    "tg":"gijon_gijon_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":18,
+    "era20c_yrsGained":92,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":122,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.03,-38.683 ]
+    },
+    "properties": {
+    "tg":"gisborne_b_078b_new_zealand",
+    "era20c_vi":"1937",
+    "era20c_recLen":73,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":7,
+    "era20c_yrsGained":66,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":60,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.018,53.45 ]
+    },
+    "properties": {
+    "tg":"gladstone_p234_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":18,
+    "era20c_yrsGained":92,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":122,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5,37.247 ]
+    },
+    "properties": {
+    "tg":"gloucesterpoint_usa",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":8,
+    "era20c_yrsGained":61,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":135,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.8,57.683 ]
+    },
+    "properties": {
+    "tg":"goteborgtorshamnen_005_sweden",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":48,
+    "era20c_yrsGained":62,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1866",
+    "twcr_recLen":149,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":101,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.957,29.263 ]
+    },
+    "properties": {
+    "tg":"grandisle_usa",
+    "era20c_vi":"1939",
+    "era20c_recLen":71,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":34,
+    "era20c_yrsGained":37,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":106,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.53,40.533 ]
+    },
+    "properties": {
+    "tg":"hachinohe_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":50,
+    "era20c_yrsGained":16,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1944",
+    "twcr_recLen":71,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":21,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.73,41.783 ]
+    },
+    "properties": {
+    "tg":"hakodate_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":51,
+    "era20c_yrsGained":15,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1954",
+    "twcr_recLen":61,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":10,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.07,34.9 ]
+    },
+    "properties": {
+    "tg":"hamada_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":30,
+    "era20c_yrsGained":36,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.57,43.283 ]
+    },
+    "properties": {
+    "tg":"hanasaki_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":53,
+    "era20c_yrsGained":13,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":17,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2845,51.947 ]
+    },
+    "properties": {
+    "tg":"harwich_p022_uk",
+    "era20c_vi":"1973",
+    "era20c_recLen":37,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":21,
+    "era20c_yrsGained":16,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1014,63.425 ]
+    },
+    "properties": {
+    "tg":"heimsjoe_001_norway",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":65,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1878",
+    "twcr_recLen":137,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":92,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.9204,54.032 ]
+    },
+    "properties": {
+    "tg":"heysham_p050_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":35,
+    "era20c_yrsGained":54,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":105,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.74,-31.825 ]
+    },
+    "properties": {
+    "tg":"hillarys_132a_australia",
+    "era20c_vi":"1962",
+    "era20c_recLen":48,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":26,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.12,51.977 ]
+    },
+    "properties": {
+    "tg":"hoekvanholla_hvh_nl",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":44,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":95,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.6312,53.308 ]
+    },
+    "properties": {
+    "tg":"holyhead_p054_uk",
+    "era20c_vi":"1961",
+    "era20c_recLen":49,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":34,
+    "era20c_yrsGained":15,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":106,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2,22.3 ]
+    },
+    "properties": {
+    "tg":"hong_kong_b_329b_china",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":51,
+    "era20c_yrsGained":17,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":84,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.973,70.98 ]
+    },
+    "properties": {
+    "tg":"honningsvaag_002_norway",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":41,
+    "era20c_yrsGained":69,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1920",
+    "twcr_recLen":95,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":54,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.467,56.1 ]
+    },
+    "properties": {
+    "tg":"hornbaek_838a_denmark",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":115,
+    "era20c_yrsGained":-5,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":20,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -28.622,38.533 ]
+    },
+    "properties": {
+    "tg":"horta,azores_212a_portugal",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":2,
+    "era20c_yrsGained":108,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":136,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.834,37.132 ]
+    },
+    "properties": {
+    "tg":"huelva_huelva_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":18,
+    "era20c_yrsGained":92,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1878",
+    "twcr_recLen":137,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":119,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.22,40.767 ]
+    },
+    "properties": {
+    "tg":"humboldt_bay,_ca_576a_usa",
+    "era20c_vi":"1939",
+    "era20c_recLen":71,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":20,
+    "era20c_yrsGained":51,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1935",
+    "twcr_recLen":80,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":60,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4497,38.911 ]
+    },
+    "properties": {
+    "tg":"ibiza_ibiza_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":12,
+    "era20c_yrsGained":98,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":128,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.1109,51.211 ]
+    },
+    "properties": {
+    "tg":"ilfracombe_p061_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":26,
+    "era20c_yrsGained":63,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":114,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.1,69.217 ]
+    },
+    "properties": {
+    "tg":"ilulissat,greenland_001",
+    "era20c_vi":"1939",
+    "era20c_recLen":71,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":3,
+    "era20c_yrsGained":68,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1931",
+    "twcr_recLen":84,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":81,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.4,-28.133 ]
+    },
+    "properties": {
+    "tg":"imbituba_718a_brazil",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":5,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1957",
+    "twcr_recLen":58,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":53,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0188,43.878 ]
+    },
+    "properties": {
+    "tg":"imperia_imperia_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":13,
+    "era20c_yrsGained":97,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":125,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.62,-43.983 ]
+    },
+    "properties": {
+    "tg":"jackson_403a_new_zealand",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":14,
+    "era20c_yrsGained":96,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":53,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -134.41,58.298 ]
+    },
+    "properties": {
+    "tg":"juneau_usa",
+    "era20c_vi":"1947",
+    "era20c_recLen":63,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":35,
+    "era20c_yrsGained":28,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1942",
+    "twcr_recLen":73,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":38,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28,28.088 ]
+    },
+    "properties": {
+    "tg":"kanmen_a_632a_china",
+    "era20c_vi":"1943",
+    "era20c_recLen":67,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":24,
+    "era20c_yrsGained":43,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1951",
+    "twcr_recLen":64,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":40,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.63,55.333 ]
+    },
+    "properties": {
+    "tg":"ketchikan,ak_571a_usa",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":71,
+    "era20c_yrsGained":-5,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":-3,
+    "twcr_yrsGainedSign":"(-15)-(0)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -36.497,-54.283 ]
+    },
+    "properties": {
+    "tg":"kingedwardpoint_uk",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":5,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1978",
+    "twcr_recLen":37,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":32,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.0504,58.457 ]
+    },
+    "properties": {
+    "tg":"kinlochbervi_p918_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":20,
+    "era20c_yrsGained":90,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1870",
+    "twcr_recLen":145,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":125,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.988,37.165 ]
+    },
+    "properties": {
+    "tg":"kiptopekebeach_usa",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":19,
+    "era20c_yrsGained":49,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":124,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.033,-32.033 ]
+    },
+    "properties": {
+    "tg":"knysna_186a_south_africa",
+    "era20c_vi":"1967",
+    "era20c_recLen":43,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":27,
+    "era20c_yrsGained":16,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.51,57.732 ]
+    },
+    "properties": {
+    "tg":"kodiak_isl.,alaska_039a_usa",
+    "era20c_vi":"1943",
+    "era20c_recLen":67,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":33,
+    "era20c_yrsGained":34,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1942",
+    "twcr_recLen":73,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":40,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.127,58.997 ]
+    },
+    "properties": {
+    "tg":"kungsvik_009_sweden",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":42,
+    "era20c_yrsGained":68,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":93,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.38,42.967 ]
+    },
+    "properties": {
+    "tg":"kushiro_japan",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":52,
+    "era20c_yrsGained":18,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1906",
+    "twcr_recLen":109,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":57,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.95,75.383 ]
+    },
+    "properties": {
+    "tg":"l._cornwallis_i._705a_canada",
+    "era20c_vi":"1946",
+    "era20c_recLen":64,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":7,
+    "era20c_yrsGained":57,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":61,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.68,38.867 ]
+    },
+    "properties": {
+    "tg":"laohutan_a_631a_china",
+    "era20c_vi":"1954",
+    "era20c_recLen":56,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":8,
+    "era20c_yrsGained":48,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1950",
+    "twcr_recLen":65,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":57,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.412,28.141 ]
+    },
+    "properties": {
+    "tg":"las_palmas_laspalmas_spain",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":47,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":118,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4,43.367 ]
+    },
+    "properties": {
+    "tg":"la_coruna_830a_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":68,
+    "era20c_yrsGained":42,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":72,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2206,46.158 ]
+    },
+    "properties": {
+    "tg":"la_rochelle_la_palli_",
+    "era20c_vi":"1916",
+    "era20c_recLen":94,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":26,
+    "era20c_yrsGained":68,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":114,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1817,55.99 ]
+    },
+    "properties": {
+    "tg":"leith_p034_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":23,
+    "era20c_yrsGained":66,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1868",
+    "twcr_recLen":147,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":124,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1333,60.15 ]
+    },
+    "properties": {
+    "tg":"lerwick_p041_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":48,
+    "era20c_yrsGained":62,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1869",
+    "twcr_recLen":146,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":98,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7935,46.497 ]
+    },
+    "properties": {
+    "tg":"les_sables_d_olonne_",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":23,
+    "era20c_yrsGained":66,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":117,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.12,38.782 ]
+    },
+    "properties": {
+    "tg":"lewes,de_747a_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":54,
+    "era20c_yrsGained":16,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":89,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.7807,48.359 ]
+    },
+    "properties": {
+    "tg":"le_conquet_",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":40,
+    "era20c_yrsGained":49,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":100,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8952,47.543 ]
+    },
+    "properties": {
+    "tg":"le_crouesty_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":8,
+    "era20c_yrsGained":102,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":132,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.106,49.482 ]
+    },
+    "properties": {
+    "tg":"le_havre_",
+    "era20c_vi":"1916",
+    "era20c_recLen":94,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":42,
+    "era20c_yrsGained":52,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":98,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7508,52.473 ]
+    },
+    "properties": {
+    "tg":"lowestoft_p024_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":51,
+    "era20c_yrsGained":38,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1867",
+    "twcr_recLen":148,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":97,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.62,32.133 ]
+    },
+    "properties": {
+    "tg":"lusi_a_633a_china",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":20,
+    "era20c_yrsGained":48,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1955",
+    "twcr_recLen":60,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":40,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.72,-43.6 ]
+    },
+    "properties": {
+    "tg":"lyttelton_667a_new_zealand",
+    "era20c_vi":"1948",
+    "era20c_recLen":62,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":18,
+    "era20c_yrsGained":44,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":49,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1133,61.934 ]
+    },
+    "properties": {
+    "tg":"maaloey_003_norway",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":43,
+    "era20c_yrsGained":67,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":92,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.2706,39.893 ]
+    },
+    "properties": {
+    "tg":"mahon_mahon_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":5,
+    "era20c_yrsGained":105,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1899",
+    "twcr_recLen":116,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":111,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.38,35.467 ]
+    },
+    "properties": {
+    "tg":"maizuru_japan",
+    "era20c_vi":"1945",
+    "era20c_recLen":65,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":46,
+    "era20c_yrsGained":19,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":24,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3333,55.367 ]
+    },
+    "properties": {
+    "tg":"malin_head_834a_ireland",
+    "era20c_vi":"1948",
+    "era20c_recLen":62,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":41,
+    "era20c_yrsGained":21,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.905,65.413 ]
+    },
+    "properties": {
+    "tg":"maniitsoq,greenland_001",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":1,
+    "era20c_yrsGained":68,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.5,-35.833 ]
+    },
+    "properties": {
+    "tg":"marsden_point_398a_new_zealand",
+    "era20c_vi":"1948",
+    "era20c_recLen":62,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":28,
+    "era20c_yrsGained":34,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":39,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.35,43.3 ]
+    },
+    "properties": {
+    "tg":"marseille_france",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":16,
+    "era20c_yrsGained":94,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1900",
+    "twcr_recLen":115,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":99,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.55,-38.05 ]
+    },
+    "properties": {
+    "tg":"mar_del_plata_b_729b_argentina",
+    "era20c_vi":"1975",
+    "era20c_recLen":35,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":6,
+    "era20c_yrsGained":29,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1956",
+    "twcr_recLen":59,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":53,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173.2,52.833 ]
+    },
+    "properties": {
+    "tg":"massacre_bay,ak_550a_usa",
+    "era20c_vi":"1946",
+    "era20c_recLen":64,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":19,
+    "era20c_yrsGained":45,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1946",
+    "twcr_recLen":69,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":50,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 62.883,-67.6 ]
+    },
+    "properties": {
+    "tg":"mawson_177a_australia",
+    "era20c_vi":"1945",
+    "era20c_recLen":65,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":48,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.432,30.395 ]
+    },
+    "properties": {
+    "tg":"mayport,fl_753a_usa",
+    "era20c_vi":"1946",
+    "era20c_recLen":64,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":72,
+    "era20c_yrsGained":-8,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":68,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.0143,51.702 ]
+    },
+    "properties": {
+    "tg":"milfordhaven_p056_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":30,
+    "era20c_yrsGained":59,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":110,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.9058,55.75 ]
+    },
+    "properties": {
+    "tg":"millport_p049_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":32,
+    "era20c_yrsGained":57,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1868",
+    "twcr_recLen":147,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":115,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.98,39.65 ]
+    },
+    "properties": {
+    "tg":"miyako_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":50,
+    "era20c_yrsGained":16,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":20,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4215,43.729 ]
+    },
+    "properties": {
+    "tg":"monaco_port_hercule_france",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":88,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1878",
+    "twcr_recLen":137,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":115,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.96,41.048 ]
+    },
+    "properties": {
+    "tg":"montauk,ny_279a_usa",
+    "era20c_vi":"1949",
+    "era20c_recLen":61,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":16,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":98,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.89,36.605 ]
+    },
+    "properties": {
+    "tg":"monterey,ca_555a_usa",
+    "era20c_vi":"1977",
+    "era20c_recLen":33,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":-6,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1939",
+    "twcr_recLen":76,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":37,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.0022,57.599 ]
+    },
+    "properties": {
+    "tg":"morayfirth_p207_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":5,
+    "era20c_yrsGained":105,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1870",
+    "twcr_recLen":145,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":140,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.133,-34.183 ]
+    },
+    "properties": {
+    "tg":"mossel_bay_185a_south_africa",
+    "era20c_vi":"1978",
+    "era20c_recLen":32,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":31,
+    "era20c_yrsGained":1,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1978",
+    "twcr_recLen":37,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":6,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9754,51.57 ]
+    },
+    "properties": {
+    "tg":"mumbles_p932_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":74,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":125,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.097,41.285 ]
+    },
+    "properties": {
+    "tg":"nantucketisland_usa",
+    "era20c_vi":"1943",
+    "era20c_recLen":67,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":48,
+    "era20c_yrsGained":19,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":95,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 176.92,-39.483 ]
+    },
+    "properties": {
+    "tg":"napier_668a_new_zealand",
+    "era20c_vi":"1948",
+    "era20c_recLen":62,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":20,
+    "era20c_yrsGained":42,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":47,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.269,40.841 ]
+    },
+    "properties": {
+    "tg":"napoli_napoli_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":20,
+    "era20c_yrsGained":90,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":118,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.62,48.368 ]
+    },
+    "properties": {
+    "tg":"neah_bay,wa_558a_usa",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":75,
+    "era20c_yrsGained":-9,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1950",
+    "twcr_recLen":65,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":-10,
+    "twcr_yrsGainedSign":"(-15)-(0)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173.27,-41.267 ]
+    },
+    "properties": {
+    "tg":"nelson_077a_new_zealand",
+    "era20c_vi":"1948",
+    "era20c_recLen":62,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":47,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":52,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.05703,50.782 ]
+    },
+    "properties": {
+    "tg":"newhaven_p011_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":26,
+    "era20c_yrsGained":63,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1865",
+    "twcr_recLen":150,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":124,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.09,41.361 ]
+    },
+    "properties": {
+    "tg":"newlondon_usa",
+    "era20c_vi":"1937",
+    "era20c_recLen":73,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":61,
+    "era20c_yrsGained":12,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":82,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.5417,50.102 ]
+    },
+    "properties": {
+    "tg":"newlyn_p001_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":74,
+    "era20c_yrsGained":15,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":66,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.327,41.505 ]
+    },
+    "properties": {
+    "tg":"newport,ri_253a_usa",
+    "era20c_vi":"1938",
+    "era20c_recLen":72,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":77,
+    "era20c_yrsGained":-5,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":66,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.327,41.505 ]
+    },
+    "properties": {
+    "tg":"newport_usa",
+    "era20c_vi":"1938",
+    "era20c_recLen":72,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":61,
+    "era20c_yrsGained":11,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":82,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.014,40.701 ]
+    },
+    "properties": {
+    "tg":"newyork_thebattery__usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":60,
+    "era20c_yrsGained":10,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":83,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.087,41.355 ]
+    },
+    "properties": {
+    "tg":"new_london,ct_744a_usa",
+    "era20c_vi":"1938",
+    "era20c_recLen":72,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":69,
+    "era20c_yrsGained":3,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":74,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.015,40.7 ]
+    },
+    "properties": {
+    "tg":"new_york,ny_745a_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":71,
+    "era20c_yrsGained":-1,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":72,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2853,43.696 ]
+    },
+    "properties": {
+    "tg":"nice_france",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":95,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":123,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -165.43,64.5 ]
+    },
+    "properties": {
+    "tg":"nome,ak_595a_usa",
+    "era20c_vi":"1943",
+    "era20c_recLen":67,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":52,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1935",
+    "twcr_recLen":80,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":65,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4398,55.007 ]
+    },
+    "properties": {
+    "tg":"northshields_p032_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":71,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1868",
+    "twcr_recLen":147,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":108,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.15,37.5 ]
+    },
+    "properties": {
+    "tg":"noto_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":16,
+    "era20c_yrsGained":50,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":54,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.95,78.933 ]
+    },
+    "properties": {
+    "tg":"ny_alesund,norway_001",
+    "era20c_vi":"1989",
+    "era20c_recLen":21,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":23,
+    "era20c_yrsGained":-2,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.72,39.067 ]
+    },
+    "properties": {
+    "tg":"ofunato_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":47,
+    "era20c_yrsGained":19,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":23,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.9,36.933 ]
+    },
+    "properties": {
+    "tg":"onahama_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":52,
+    "era20c_yrsGained":14,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":18,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.415,42.356 ]
+    },
+    "properties": {
+    "tg":"ortona_ortona_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":13,
+    "era20c_yrsGained":97,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":127,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.734,59.909 ]
+    },
+    "properties": {
+    "tg":"oslo_004_norway",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":42,
+    "era20c_yrsGained":68,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":93,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141,43.2 ]
+    },
+    "properties": {
+    "tg":"otaru_japan",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":53,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1907",
+    "twcr_recLen":108,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":91,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.371,38.121 ]
+    },
+    "properties": {
+    "tg":"palermo_palermo_italy",
+    "era20c_vi":"1955",
+    "era20c_recLen":55,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":12,
+    "era20c_yrsGained":43,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":128,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6375,39.56 ]
+    },
+    "properties": {
+    "tg":"palma_de_mallorca_palmademallorca_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":5,
+    "era20c_yrsGained":105,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":133,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.88,30.213 ]
+    },
+    "properties": {
+    "tg":"panama_city_beach_761a_usa",
+    "era20c_vi":"1947",
+    "era20c_recLen":63,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":48,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1869",
+    "twcr_recLen":146,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":131,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.213,30.403 ]
+    },
+    "properties": {
+    "tg":"pensacola,fl_762a_usa",
+    "era20c_vi":"1939",
+    "era20c_recLen":71,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":85,
+    "era20c_yrsGained":-14,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1869",
+    "twcr_recLen":146,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":61,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -25.672,37.735 ]
+    },
+    "properties": {
+    "tg":"ponta_delgada_211a_portugal",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":19,
+    "era20c_yrsGained":47,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":119,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6,-34.926 ]
+    },
+    "properties": {
+    "tg":"portadelaideouter_020_australia",
+    "era20c_vi":"1950",
+    "era20c_recLen":60,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":69,
+    "era20c_yrsGained":-9,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":-1,
+    "twcr_yrsGainedSign":"(-15)-(0)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1901,55.627 ]
+    },
+    "properties": {
+    "tg":"portellen_p202_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":19,
+    "era20c_yrsGained":70,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":121,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.7681,54.085 ]
+    },
+    "properties": {
+    "tg":"porterin_p919_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":19,
+    "era20c_yrsGained":70,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1836",
+    "twcr_recLen":179,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":160,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.6,-38.333 ]
+    },
+    "properties": {
+    "tg":"portland,s.aus._129a_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":88,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":46,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.247,43.657 ]
+    },
+    "properties": {
+    "tg":"portland_maine__usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":61,
+    "era20c_yrsGained":9,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":79,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.86,-34.72 ]
+    },
+    "properties": {
+    "tg":"portlincoln_023_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":71,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":29,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.5,-35.099 ]
+    },
+    "properties": {
+    "tg":"portlonsdale_017_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":42,
+    "era20c_yrsGained":68,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1950",
+    "twcr_recLen":65,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":23,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4039,40.842 ]
+    },
+    "properties": {
+    "tg":"porto_torres_porto+torres_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":14,
+    "era20c_yrsGained":96,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":124,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.12,54.843 ]
+    },
+    "properties": {
+    "tg":"portpatrick_p063_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":40,
+    "era20c_yrsGained":49,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":100,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.01,-33.177 ]
+    },
+    "properties": {
+    "tg":"portpirie_024_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":63,
+    "era20c_yrsGained":47,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":5,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6568,55.207 ]
+    },
+    "properties": {
+    "tg":"portrush_p935_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":18,
+    "era20c_yrsGained":71,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":122,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1118,50.803 ]
+    },
+    "properties": {
+    "tg":"portsmouth_p008_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":67,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1867",
+    "twcr_recLen":148,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":126,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.44,48.125 ]
+    },
+    "properties": {
+    "tg":"port_angeles,_wa_584a_usa",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":23,
+    "era20c_yrsGained":43,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":45,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0616,45.569 ]
+    },
+    "properties": {
+    "tg":"port_bloc_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":19,
+    "era20c_yrsGained":91,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":121,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.1264,43.52 ]
+    },
+    "properties": {
+    "tg":"port_camargue_france",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":2,
+    "era20c_yrsGained":108,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1853",
+    "twcr_recLen":162,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":160,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 170.65,-45.817 ]
+    },
+    "properties": {
+    "tg":"port_chalmers_669a_new_zealand",
+    "era20c_vi":"1962",
+    "era20c_recLen":48,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":14,
+    "era20c_yrsGained":34,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1974",
+    "twcr_recLen":41,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":27,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.63,-33.96 ]
+    },
+    "properties": {
+    "tg":"port_elizabeth_184a_south_africa",
+    "era20c_vi":"1983",
+    "era20c_recLen":27,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":24,
+    "era20c_yrsGained":3,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1967",
+    "twcr_recLen":48,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":24,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.91,-34.473 ]
+    },
+    "properties": {
+    "tg":"port_kembla_342a_australia",
+    "era20c_vi":"1950",
+    "era20c_recLen":60,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":21,
+    "era20c_yrsGained":39,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":47,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.5,42.74 ]
+    },
+    "properties": {
+    "tg":"port_orford,_or_557a_usa",
+    "era20c_vi":"1947",
+    "era20c_recLen":63,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":14,
+    "era20c_yrsGained":49,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":53,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.867,-52.7 ]
+    },
+    "properties": {
+    "tg":"port_stanley_a_290a_united_kingdom",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":4,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1975",
+    "twcr_recLen":40,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":36,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.933,-51.75 ]
+    },
+    "properties": {
+    "tg":"port_stanley_b_290b_united_kingdom",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":14,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1975",
+    "twcr_recLen":40,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":26,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.47,-35.108 ]
+    },
+    "properties": {
+    "tg":"port_stanvac_100a_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":18,
+    "era20c_yrsGained":92,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":50,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.4459,47.644 ]
+    },
+    "properties": {
+    "tg":"port_tudy_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":38,
+    "era20c_yrsGained":72,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":102,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1075,42.52 ]
+    },
+    "properties": {
+    "tg":"port_vendres_france",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":21,
+    "era20c_yrsGained":89,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1853",
+    "twcr_recLen":162,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":141,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.53,70.4 ]
+    },
+    "properties": {
+    "tg":"prudhoe_bay,_ak_579a_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":19,
+    "era20c_yrsGained":51,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1936",
+    "twcr_recLen":79,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":60,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.033,60.717 ]
+    },
+    "properties": {
+    "tg":"qaqortoq,greenland_001",
+    "era20c_vi":"1938",
+    "era20c_recLen":72,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":6,
+    "era20c_yrsGained":66,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.283,44.492 ]
+    },
+    "properties": {
+    "tg":"ravenna_ravenna_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":95,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":125,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.573,39.558 ]
+    },
+    "properties": {
+    "tg":"reedypoint_usa",
+    "era20c_vi":"1930",
+    "era20c_recLen":80,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":33,
+    "era20c_yrsGained":47,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":110,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.113,57.25 ]
+    },
+    "properties": {
+    "tg":"ringhals_016_sweden",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":65,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":90,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.23,64.859 ]
+    },
+    "properties": {
+    "tg":"roervik_005_norway",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":44,
+    "era20c_yrsGained":66,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1927",
+    "twcr_recLen":88,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":44,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9657,48.718 ]
+    },
+    "properties": {
+    "tg":"roscoff_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":36,
+    "era20c_yrsGained":74,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":104,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.133,-67.567 ]
+    },
+    "properties": {
+    "tg":"rothera_uk",
+    "era20c_vi":"1975",
+    "era20c_recLen":35,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":11,
+    "era20c_yrsGained":24,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.87,29.73 ]
+    },
+    "properties": {
+    "tg":"sabine_pass_n,tx_766a_usa",
+    "era20c_vi":"1938",
+    "era20c_recLen":72,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":21,
+    "era20c_yrsGained":51,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":119,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.206,39.634 ]
+    },
+    "properties": {
+    "tg":"sagunto_sagunto_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":7,
+    "era20c_yrsGained":103,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1853",
+    "twcr_recLen":162,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":155,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2464,47.14 ]
+    },
+    "properties": {
+    "tg":"saint_gildas_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":71,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":101,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6816,43.395 ]
+    },
+    "properties": {
+    "tg":"saint_jean_de_luz_so_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":71,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":101,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0281,48.641 ]
+    },
+    "properties": {
+    "tg":"saint_malo_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":19,
+    "era20c_yrsGained":91,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1867",
+    "twcr_recLen":148,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":129,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2016,47.267 ]
+    },
+    "properties": {
+    "tg":"saint_nazaire_",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":29,
+    "era20c_yrsGained":81,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":111,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.538,-38.712 ]
+    },
+    "properties": {
+    "tg":"saint_paul_179a_france",
+    "era20c_vi":"1978",
+    "era20c_recLen":32,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":11,
+    "era20c_yrsGained":21,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.25,35.55 ]
+    },
+    "properties": {
+    "tg":"sakai_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":52,
+    "era20c_yrsGained":14,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":18,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.95,-33.017 ]
+    },
+    "properties": {
+    "tg":"saldahna_bay_703a_south_africa",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.009,40.467 ]
+    },
+    "properties": {
+    "tg":"sandyhook_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":63,
+    "era20c_yrsGained":7,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":80,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.5,55.337 ]
+    },
+    "properties": {
+    "tg":"sand_point,ak_574a_usa",
+    "era20c_vi":"1954",
+    "era20c_recLen":56,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":38,
+    "era20c_yrsGained":18,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1942",
+    "twcr_recLen":73,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":35,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.47,37.807 ]
+    },
+    "properties": {
+    "tg":"sanfrancisco_usa",
+    "era20c_vi":"1977",
+    "era20c_recLen":33,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":65,
+    "era20c_yrsGained":-32,
+    "era20c_yrsGainedSign":"(-60)-(-30)",
+    "twcr_vi":"1935",
+    "twcr_recLen":80,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":15,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.79,43.461 ]
+    },
+    "properties": {
+    "tg":"santander_ieo_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":65,
+    "era20c_yrsGained":45,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":75,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.34,47.603 ]
+    },
+    "properties": {
+    "tg":"seattle_usa",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":65,
+    "era20c_yrsGained":1,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":2,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.72,59.44 ]
+    },
+    "properties": {
+    "tg":"seldovia_usa",
+    "era20c_vi":"1943",
+    "era20c_recLen":67,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":34,
+    "era20c_yrsGained":33,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1942",
+    "twcr_recLen":73,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":39,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.6991,43.398 ]
+    },
+    "properties": {
+    "tg":"sete_france",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":16,
+    "era20c_yrsGained":94,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1853",
+    "twcr_recLen":162,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":146,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.43,60.12 ]
+    },
+    "properties": {
+    "tg":"seward_c,ak_560c_usa",
+    "era20c_vi":"1943",
+    "era20c_recLen":67,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":40,
+    "era20c_yrsGained":27,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1942",
+    "twcr_recLen":73,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":33,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.33,36.947 ]
+    },
+    "properties": {
+    "tg":"sewellspoint,hamptonroads_usa",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":65,
+    "era20c_yrsGained":4,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":75,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.35,22.75 ]
+    },
+    "properties": {
+    "tg":"shanwei_641a_china",
+    "era20c_vi":"1943",
+    "era20c_recLen":67,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":23,
+    "era20c_yrsGained":44,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1881",
+    "twcr_recLen":134,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":111,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.23,41.367 ]
+    },
+    "properties": {
+    "tg":"shimokita_japan",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":49,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1945",
+    "twcr_recLen":70,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":53,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.433,-34.183 ]
+    },
+    "properties": {
+    "tg":"simon_s_town_221a_south_africa",
+    "era20c_vi":"1978",
+    "era20c_recLen":32,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":36,
+    "era20c_yrsGained":-4,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.667,66.933 ]
+    },
+    "properties": {
+    "tg":"sisimiut,greenland_001",
+    "era20c_vi":"1961",
+    "era20c_recLen":49,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":7,
+    "era20c_yrsGained":42,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.34,57.052 ]
+    },
+    "properties": {
+    "tg":"sitka,ak_559a_usa",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":73,
+    "era20c_yrsGained":-7,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":-5,
+    "twcr_yrsGainedSign":"(-15)-(0)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.33,59.45 ]
+    },
+    "properties": {
+    "tg":"skagway_usa",
+    "era20c_vi":"1947",
+    "era20c_recLen":63,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":32,
+    "era20c_yrsGained":31,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1942",
+    "twcr_recLen":73,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":41,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.218,58.354 ]
+    },
+    "properties": {
+    "tg":"smogen_020_sweden",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":56,
+    "era20c_yrsGained":54,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":79,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.452,38.317 ]
+    },
+    "properties": {
+    "tg":"solomonsisland_biol.lab.__usa",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":30,
+    "era20c_yrsGained":80,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":113,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.04,44.625 ]
+    },
+    "properties": {
+    "tg":"south_beach,or_592a_usa",
+    "era20c_vi":"1994",
+    "era20c_recLen":16,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":46,
+    "era20c_yrsGained":-30,
+    "era20c_yrsGainedSign":"(-60)-(-30)",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":22,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.918,33.655 ]
+    },
+    "properties": {
+    "tg":"springmaidpier_usa",
+    "era20c_vi":"1946",
+    "era20c_recLen":64,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":34,
+    "era20c_yrsGained":30,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1850",
+    "twcr_recLen":165,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":131,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.93,-42.55 ]
+    },
+    "properties": {
+    "tg":"spring_bay_335a_australia",
+    "era20c_vi":"1973",
+    "era20c_recLen":37,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":26,
+    "era20c_yrsGained":11,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"discard ",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.583,-38.717 ]
+    },
+    "properties": {
+    "tg":"st.paulisland_001",
+    "era20c_vi":"1949",
+    "era20c_recLen":61,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":4,
+    "era20c_yrsGained":57,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.627,27.761 ]
+    },
+    "properties": {
+    "tg":"st.petersburg_usa",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":63,
+    "era20c_yrsGained":6,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1869",
+    "twcr_recLen":146,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":83,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.262,29.857 ]
+    },
+    "properties": {
+    "tg":"st._augustine,fl_262a_usa",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":9,
+    "era20c_yrsGained":60,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1859",
+    "twcr_recLen":156,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":147,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.7,47.567 ]
+    },
+    "properties": {
+    "tg":"st._john_s_b_276b_canada",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":47,
+    "era20c_yrsGained":22,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1913",
+    "twcr_recLen":102,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":55,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.627,27.76 ]
+    },
+    "properties": {
+    "tg":"st._petersburg,_fl_759a_usa",
+    "era20c_vi":"1941",
+    "era20c_recLen":69,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":63,
+    "era20c_yrsGained":6,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1861",
+    "twcr_recLen":154,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":91,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.821,-51.692 ]
+    },
+    "properties": {
+    "tg":"stanley_uk",
+    "era20c_vi":"discard",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1975",
+    "twcr_recLen":40,
+    "twcr_recSign":"0-50",
+    "twcr_yrsGained":23,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.832,58.093 ]
+    },
+    "properties": {
+    "tg":"stenungsund_022_sweden",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":49,
+    "era20c_yrsGained":61,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":86,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1167,49.183 ]
+    },
+    "properties": {
+    "tg":"sthelier_p074_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":67,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":118,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3164,49.918 ]
+    },
+    "properties": {
+    "tg":"stmarys_p231_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":74,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":125,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3882,58.208 ]
+    },
+    "properties": {
+    "tg":"stornoway_p042_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":30,
+    "era20c_yrsGained":59,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1869",
+    "twcr_recLen":146,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":116,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.03,-39.05 ]
+    },
+    "properties": {
+    "tg":"taranaki_076a_new_zealand",
+    "era20c_vi":"1925",
+    "era20c_recLen":85,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":23,
+    "era20c_yrsGained":62,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":44,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 176.18,-37.65 ]
+    },
+    "properties": {
+    "tg":"tauranga_073a_new_zealand",
+    "era20c_vi":"1920",
+    "era20c_recLen":90,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":24,
+    "era20c_yrsGained":66,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":43,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.24,28.478 ]
+    },
+    "properties": {
+    "tg":"tenerife_tenerife_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":21,
+    "era20c_yrsGained":89,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":119,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.65,-32.146 ]
+    },
+    "properties": {
+    "tg":"thevenard_026_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":71,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1944",
+    "twcr_recLen":71,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":32,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 171.25,-44.383 ]
+    },
+    "properties": {
+    "tg":"timaru_665a_new_zealand",
+    "era20c_vi":"1948",
+    "era20c_recLen":62,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":15,
+    "era20c_yrsGained":47,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":52,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.0642,56.623 ]
+    },
+    "properties": {
+    "tg":"tobermory_p223_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":20,
+    "era20c_yrsGained":90,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":120,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9131,43.117 ]
+    },
+    "properties": {
+    "tg":"toulon_france",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":27,
+    "era20c_yrsGained":83,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1898",
+    "twcr_recLen":117,
+    "twcr_recSign":"100-125",
+    "twcr_yrsGained":90,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5666,58 ]
+    },
+    "properties": {
+    "tg":"tregde_006_norway",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":45,
+    "era20c_yrsGained":65,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1870",
+    "twcr_recLen":145,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":100,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.75,45.65 ]
+    },
+    "properties": {
+    "tg":"trieste_270061_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":43,
+    "era20c_yrsGained":67,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":97,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.1579,57.895 ]
+    },
+    "properties": {
+    "tg":"ullapool_p043_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":35,
+    "era20c_yrsGained":75,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":105,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.54,53.88 ]
+    },
+    "properties": {
+    "tg":"unalaska_usa",
+    "era20c_vi":"1945",
+    "era20c_recLen":65,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":32,
+    "era20c_yrsGained":33,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1944",
+    "twcr_recLen":71,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":39,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.36,61.125 ]
+    },
+    "properties": {
+    "tg":"valdez,ak_562a_usa",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":34,
+    "era20c_yrsGained":34,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1942",
+    "twcr_recLen":73,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":39,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.33,39.46 ]
+    },
+    "properties": {
+    "tg":"valencia_valencia_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":88,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":116,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.217,57.1 ]
+    },
+    "properties": {
+    "tg":"varberg1_024_sweden",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":20,
+    "era20c_yrsGained":90,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":115,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.1,70.333 ]
+    },
+    "properties": {
+    "tg":"vardo,norway_001",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":28,
+    "era20c_yrsGained":82,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1928",
+    "twcr_recLen":87,
+    "twcr_recSign":"75-100",
+    "twcr_yrsGained":59,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.426,45.419 ]
+    },
+    "properties": {
+    "tg":"venezia_punta_salute_italy",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":33,
+    "era20c_yrsGained":77,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":107,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.62,-35.553 ]
+    },
+    "properties": {
+    "tg":"victorharbor_027_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":37,
+    "era20c_yrsGained":73,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":31,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.37,48.422 ]
+    },
+    "properties": {
+    "tg":"victoria,bc_543a_canada",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":102,
+    "era20c_yrsGained":-36,
+    "era20c_yrsGainedSign":"(-60)-(-30)",
+    "twcr_vi":"1944",
+    "twcr_recLen":71,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":-31,
+    "twcr_yrsGainedSign":"(-60)-(-30)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.7333,42.233 ]
+    },
+    "properties": {
+    "tg":"vigo_ieo_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":67,
+    "era20c_yrsGained":43,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":73,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.579,56.142 ]
+    },
+    "properties": {
+    "tg":"viken_025_sweden",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":71,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":96,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.77,42.601 ]
+    },
+    "properties": {
+    "tg":"villagarcia_villagarcia_spain",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":17,
+    "era20c_yrsGained":93,
+    "era20c_yrsGainedSign":"90-120",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":123,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.68,45.4 ]
+    },
+    "properties": {
+    "tg":"wakkanai_japan",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":53,
+    "era20c_yrsGained":57,
+    "era20c_yrsGainedSign":"30-60",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":14,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.022,38.873 ]
+    },
+    "properties": {
+    "tg":"washingtondc_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":64,
+    "era20c_yrsGained":6,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"",
+    "twcr_recLen":null,
+    "twcr_recSign":"",
+    "twcr_yrsGained":null,
+    "twcr_yrsGainedSign":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78,-41.283 ]
+    },
+    "properties": {
+    "tg":"wellington_071a_new_zealand",
+    "era20c_vi":"1948",
+    "era20c_recLen":62,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":67,
+    "era20c_yrsGained":-5,
+    "era20c_yrsGainedSign":"(-15)-(0)",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":0,
+    "twcr_yrsGainedSign":"(-15)-(0)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.4479,50.608 ]
+    },
+    "properties": {
+    "tg":"weymouth_p991_uk",
+    "era20c_vi":"1921",
+    "era20c_recLen":89,
+    "era20c_recSign":"75-100",
+    "obsRecordLength_x":21,
+    "era20c_yrsGained":68,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":119,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.61417,54.49 ]
+    },
+    "properties": {
+    "tg":"whitby_p174_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":29,
+    "era20c_yrsGained":81,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1868",
+    "twcr_recLen":147,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":118,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0863,58.441 ]
+    },
+    "properties": {
+    "tg":"wick_p035_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":43,
+    "era20c_yrsGained":67,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1869",
+    "twcr_recLen":146,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":103,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.97,46.708 ]
+    },
+    "properties": {
+    "tg":"willapa_bay,_wa_564a_usa",
+    "era20c_vi":"1947",
+    "era20c_recLen":63,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":38,
+    "era20c_yrsGained":25,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":29,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.782,40.793 ]
+    },
+    "properties": {
+    "tg":"willetspoint_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":46,
+    "era20c_yrsGained":24,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":97,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9,-37.857 ]
+    },
+    "properties": {
+    "tg":"williamstown_028_australia",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":71,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1947",
+    "twcr_recLen":68,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":29,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.672,41.523 ]
+    },
+    "properties": {
+    "tg":"woods_hole,ma_742a_usa",
+    "era20c_vi":"1940",
+    "era20c_recLen":70,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":49,
+    "era20c_yrsGained":21,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1872",
+    "twcr_recLen":143,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":94,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.5676,54.651 ]
+    },
+    "properties": {
+    "tg":"workington_p217_uk",
+    "era20c_vi":"1900",
+    "era20c_recLen":110,
+    "era20c_recSign":"100-125",
+    "obsRecordLength_x":22,
+    "era20c_yrsGained":88,
+    "era20c_yrsGainedSign":"60-90",
+    "twcr_vi":"1868",
+    "twcr_recLen":147,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":125,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.07,24.45 ]
+    },
+    "properties": {
+    "tg":"xiamen_376a_china",
+    "era20c_vi":"1942",
+    "era20c_recLen":68,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":44,
+    "era20c_yrsGained":24,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1881",
+    "twcr_recLen":134,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":90,
+    "twcr_yrsGainedSign":"60-90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -139.74,59.548 ]
+    },
+    "properties": {
+    "tg":"yakutat_usa",
+    "era20c_vi":"1944",
+    "era20c_recLen":66,
+    "era20c_recSign":"50-75",
+    "obsRecordLength_x":47,
+    "era20c_yrsGained":19,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1942",
+    "twcr_recLen":73,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":26,
+    "twcr_yrsGainedSign":"0-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.83,21.583 ]
+    },
+    "properties": {
+    "tg":"zhapo_a_635a_china",
+    "era20c_vi":"1965",
+    "era20c_recLen":45,
+    "era20c_recSign":"0-50",
+    "obsRecordLength_x":24,
+    "era20c_yrsGained":21,
+    "era20c_yrsGainedSign":"0-30",
+    "twcr_vi":"1880",
+    "twcr_recLen":135,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":111,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3498,42.966 ]
+    },
+    "properties": {
+    "tg":"centuri_france",
+    "era20c_vi":"",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":4,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":136,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6355,49.651 ]
+    },
+    "properties": {
+    "tg":"cherbourg_",
+    "era20c_vi":"",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":39,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":101,
+    "twcr_yrsGainedSign":"90-120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4189,38.735 ]
+    },
+    "properties": {
+    "tg":"formentera_formentera_spain",
+    "era20c_vi":"",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":5,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1853",
+    "twcr_recLen":162,
+    "twcr_recSign":"150-180",
+    "twcr_yrsGained":157,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8929,43.405 ]
+    },
+    "properties": {
+    "tg":"fos_sur_mer_france",
+    "era20c_vi":"",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":3,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":137,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.152,38.995 ]
+    },
+    "properties": {
+    "tg":"gandia_gandia_spain",
+    "era20c_vi":"",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":7,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1875",
+    "twcr_recLen":140,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":133,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.918,35.291 ]
+    },
+    "properties": {
+    "tg":"melilla_melilla_spain",
+    "era20c_vi":"",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":7,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":131,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -130.17,54.317 ]
+    },
+    "properties": {
+    "tg":"princerupert,canada_001",
+    "era20c_vi":"",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":13,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1948",
+    "twcr_recLen":67,
+    "twcr_recSign":"50-75",
+    "twcr_yrsGained":54,
+    "twcr_yrsGainedSign":"30-60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4038,41.857 ]
+    },
+    "properties": {
+    "tg":"solenzara_france",
+    "era20c_vi":"",
+    "era20c_recLen":null,
+    "era20c_recSign":"",
+    "obsRecordLength_x":3,
+    "era20c_yrsGained":null,
+    "era20c_yrsGainedSign":"",
+    "twcr_vi":"1877",
+    "twcr_recLen":138,
+    "twcr_recSign":"125-150",
+    "twcr_yrsGained":135,
+    "twcr_yrsGainedSign":"120-160"
+    }
+  }
+]
+}
