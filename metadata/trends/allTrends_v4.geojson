@@ -1,0 +1,5458 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.28,44.017 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "tg":"abashiri_japan",
+    "e99_1930":-0.201594105,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.289917273,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.289940385,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.172658599,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0745,57.143 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "tg":"aberdeen_p038_uk",
+    "e99_1930":0.938043635,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.742628519,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":1.144014084,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.246101033,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7628,41.923 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "tg":"ajaccio_aspretto_france",
+    "e99_1930":-0.062582145,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.297607559,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.012149695,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.137797851,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1392,39.835 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "tg":"alcudia_alcudia_spain",
+    "e99_1930":0.110381382,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.102590332,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.070458489,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.171869949,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.506,43.625 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "tg":"ancona_ancona_italy",
+    "e99_1930":0.003871654,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.413786494,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.049345571,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.318890754,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.15,69.317 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "tg":"andenes_001",
+    "e99_1930":0.210562735,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.992916923,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.858963646,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.085457952,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -27.24,38.65 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "tg":"angra_heroismo_b_215b_portugal",
+    "e99_1930":-0.140961934,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.299848901,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.017998071,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.230883185,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.482,38.983 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "tg":"annapolis_navalacademy__usa",
+    "e99_1930":0.240751674,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.187842654,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.023155197,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.16908289,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1636,44.665 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "tg":"arcachon_eyrac_",
+    "e99_1930":0.449842644,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.144699899,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.071661592,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.387755543,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77,-36.85 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "tg":"auckland_070a_new_zealand",
+    "e99_1930":0.394599229,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.042431448,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.411448804,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.533,45.3 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "tg":"bakar_bakar_I_croatia",
+    "e99_1930":0.448084791,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.087363301,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.320518784,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":-0.573074809,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.163,41.342 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "tg":"barcelona_barcelona_spain",
+    "e99_1930":0.026525237,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.120519413,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.045485795,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.041502335,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.0452,52.719 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "tg":"barmouth_p923_uk",
+    "e99_1930":0.913086145,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.477135342,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.687693088,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":1.094898855,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.903,55.756 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "tg":"barseback_001_sweden",
+    "e99_1930":1.297967419,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.158130631,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.505245606,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.660375486,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5148,43.527 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "tg":"bayonne_boucau_",
+    "e99_1930":0.123931345,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.419733347,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.128007816,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.441044991,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.05,43.357 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "tg":"bilbao_bilbao_spain",
+    "e99_1930":0.034632382,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.666950365,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.226692681,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.144389551,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.34,36.8 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "tg":"bonanza_bonanza_spain",
+    "e99_1930":-0.250627036,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.699177702,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.438905309,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":-0.790443499,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5777,50.727 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "tg":"boulogne_sur_mer_",
+    "e99_1930":1.17319578,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.751555303,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.852504751,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.278777179,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8749,50.714 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "tg":"bournemouth_p988_uk",
+    "e99_1930":0.363408515,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.318479047,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.063917653,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.242919812,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.5,48.383 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "tg":"brest_",
+    "e99_1930":0.032334152,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.274150667,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.032597863,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.071649416,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2833,36.533 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "tg":"cadiz_cadi_spain",
+    "e99_1930":-0.01467255,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.21611059,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8677,50.969 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "tg":"calais_",
+    "e99_1930":1.391885234,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.780012437,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.803550417,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.858061027,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.06,-19.277 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "tg":"cape_ferguson_343a_australia",
+    "e99_1930":0.308879343,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.253656476,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3095,39.148 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "tg":"carloforte_carloforte_italy",
+    "e99_1930":-0.047207446,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.31381565,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.07055577,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.092092399,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.66,-24.884 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "tg":"carnarvon_008_australia",
+    "e99_1930":0.055440382,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.728727247,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.4167,38.692 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "tg":"cascais_209a_portugal",
+    "e99_1930":-0.173141515,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.25930526,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.05404915,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.382560233,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.53,-66.283 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "tg":"casey_130a_australia",
+    "e99_1930":0.019259668,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.573909307,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.1833,51.533 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "tg":"castletownsend_835a_ireland",
+    "e99_1930":0.479317807,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.196830256,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.077037522,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.210787658,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.3167,35.9 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "tg":"ceuta_ceta_spain",
+    "e99_1930":-0.135785879,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.291589417,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.091239666,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.148100692,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.79,42.094 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "tg":"civitavecchia_civitavecchia_italy",
+    "e99_1930":0.244389637,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.187795867,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.1045229,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.198644195,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9072,47.874 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "tg":"concarneau_",
+    "e99_1930":0.507452982,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.243939977,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.125457593,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.079695702,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7167,53.867 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "tg":"cuxhaven_germany",
+    "e99_1930":4.541193639,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":2.90569237,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":3.006152788,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":2.482553384,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.967,-68.45 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "tg":"davis_173a_australia",
+    "e99_1930":0.199642669,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.224367206,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9331,53.326 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "tg":"delfzijl_del_nl",
+    "e99_1930":3.597583673,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":2.907258717,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":1.51658619,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":1.12957159,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.7464,52.965 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "tg":"denhelder_hel_nl",
+    "e99_1930":1.724993747,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.368055324,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":1.684306391,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.309771351,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.1852,50.368 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "tg":"devonport_p002_uk",
+    "e99_1930":0.065305222,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.167057579,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.051786158,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.013367781,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0845,49.929 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "tg":"dieppe_",
+    "e99_1930":0.707551051,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.474091064,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.212479996,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.255894773,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0883,47.306 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "tg":"donges_",
+    "e99_1930":1.014530392,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.703317749,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.08805501,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.517165289,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3181,51.117 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "tg":"dover_p012_uk",
+    "e99_1930":1.676184825,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.452927273,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.649574955,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.561622365,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.01,-66.662 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "tg":"dumont_d_urville_189a_france",
+    "e99_1930":-0.015123957,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.460587037,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3667,51.048 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "tg":"dunkerque_",
+    "e99_1930":1.241820296,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.578503407,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":1.156425931,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.063932295,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4333,55.467 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "tg":"esbjerg_130121_denmark",
+    "e99_1930":1.739793989,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.451415894,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":1.97460537,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.890063445,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3484,51.957 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "tg":"felixstowe_p204_uk",
+    "e99_1930":1.428926044,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.245492181,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.847075148,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.695214098,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.326,43.463 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "tg":"ferrol_ferrol_spain",
+    "e99_1930":0.031480818,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.430010746,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.094510147,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.497880102,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.9833,52.014 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "tg":"fishguard_p055_uk",
+    "e99_1930":0.711840912,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.580897199,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.018522466,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.149912068,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.907,32.64 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "tg":"funchal_b_218b_portugal",
+    "e99_1930":0.330968534,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.034580371,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.160690107,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.196793688,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.698,43.558 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "tg":"gijon_gijon_spain",
+    "e99_1930":0.145883476,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.497370485,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.164508801,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.432516908,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.018,53.45 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "tg":"gladstone_p234_uk",
+    "e99_1930":1.521093581,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.208078699,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":2.268155653,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.860525804,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.8,57.683 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "tg":"goteborgtorshamnen_005_sweden",
+    "e99_1930":1.83302077,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.595225147,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.50468808,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.71720534,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1014,63.425 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "tg":"heimsjoe_001_norway",
+    "e99_1930":0.349552944,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.657234628,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.725066231,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.06770827,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.9204,54.032 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "tg":"heysham_p050_uk",
+    "e99_1930":1.877620387,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.613495722,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":1.492112651,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.820204701,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.12,51.977 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "tg":"hoekvanholla_hvh_nl",
+    "e99_1930":2.366515586,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.622348261,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":1.454829782,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.574018803,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.973,70.98 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "tg":"honningsvaag_002_norway",
+    "e99_1930":0.396475454,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.879361947,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.525732702,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.840671213,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.467,56.1 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "tg":"hornbaek_838a_denmark",
+    "e99_1930":1.407265719,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.181308293,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.870446486,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.999201099,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -28.622,38.533 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "tg":"horta,azores_212a_portugal",
+    "e99_1930":0.157675473,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.120011238,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.142724565,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.183028173,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.834,37.132 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "tg":"huelva_huelva_spain",
+    "e99_1930":0.078541974,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.54039135,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.073763111,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.547044561,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4497,38.911 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "tg":"ibiza_ibiza_spain",
+    "e99_1930":0.098130136,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.062483783,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.185191769,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.314121889,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.1109,51.211 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "tg":"ilfracombe_p061_uk",
+    "e99_1930":0.242922427,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.019945857,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.098942101,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.077080854,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0188,43.878 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "tg":"imperia_imperia_italy",
+    "e99_1930":-0.0515701,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.248863853,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.025318059,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.182757015,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.62,-43.983 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "tg":"jackson_403a_new_zealand",
+    "e99_1930":0.232770012,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.296420409,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.478024299,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.0504,58.457 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "tg":"kinlochbervi_p918_uk",
+    "e99_1930":1.027687118,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.8822805,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.909338756,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.366349331,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.127,58.997 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "tg":"kungsvik_009_sweden",
+    "e99_1930":1.293633078,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.238176365,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.586481037,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.586995976,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4,43.367 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "tg":"la_coruna_830a_spain",
+    "e99_1930":-0.059395226,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.398786494,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.268222099,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.613364298,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2206,46.158 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "tg":"la_rochelle_la_palli_",
+    "e99_1930":0.127833395,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.168165346,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.170904964,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.234683432,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1817,55.99 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "tg":"leith_p034_uk",
+    "e99_1930":0.872502635,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.523345623,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.825056021,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.596824105,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1333,60.15 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "tg":"lerwick_p041_uk",
+    "e99_1930":0.429530388,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.170632241,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.370702644,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.669018747,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7935,46.497 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "tg":"les_sables_d_olonne_",
+    "e99_1930":0.267752215,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.37960775,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.30975864,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.791982193,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.7807,48.359 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "tg":"le_conquet_",
+    "e99_1930":0.495933431,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.250364004,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.010722806,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.268615602,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8952,47.543 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "tg":"le_crouesty_",
+    "e99_1930":0.147145881,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.647921423,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.207531197,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.151458225,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.106,49.482 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "tg":"le_havre_",
+    "e99_1930":1.187392945,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.75579924,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.439197807,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.398402881,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7508,52.473 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "tg":"lowestoft_p024_uk",
+    "e99_1930":0.943264852,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.211842769,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.782192052,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.623214049,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1133,61.934 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "tg":"maaloey_003_norway",
+    "e99_1930":0.894929691,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.901360898,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.79213625,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.662065039,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.2706,39.893 ]
+    },
+    "properties": {
+    "FIELD1":72,
+    "tg":"mahon_mahon_spain",
+    "e99_1930":0.080364595,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.034131753,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.070766079,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.192767899,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.35,43.3 ]
+    },
+    "properties": {
+    "FIELD1":73,
+    "tg":"marseille_france",
+    "e99_1930":0.326063974,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.075927511,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.349387392,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.022572254,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.0143,51.702 ]
+    },
+    "properties": {
+    "FIELD1":74,
+    "tg":"milfordhaven_p056_uk",
+    "e99_1930":0.70579879,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.449360363,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.508949394,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.211395431,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.9058,55.75 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "tg":"millport_p049_uk",
+    "e99_1930":1.637863492,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":2.071646892,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.996274569,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.8099474,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4215,43.729 ]
+    },
+    "properties": {
+    "FIELD1":76,
+    "tg":"monaco_port_hercule_france",
+    "e99_1930":0.007720645,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.239858419,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.07792913,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.26027378,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.0022,57.599 ]
+    },
+    "properties": {
+    "FIELD1":77,
+    "tg":"morayfirth_p207_uk",
+    "e99_1930":0.889540679,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.565694662,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":1.053240811,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.982594828,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9754,51.57 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "tg":"mumbles_p932_uk",
+    "e99_1930":0.941743847,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.746571712,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.517994693,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.174714158,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.269,40.841 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "tg":"napoli_napoli_italy",
+    "e99_1930":0.027388819,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.427618061,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.015474279,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.257707775,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.05703,50.782 ]
+    },
+    "properties": {
+    "FIELD1":80,
+    "tg":"newhaven_p011_uk",
+    "e99_1930":0.894572737,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.466217419,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.636673024,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.603138089,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.5417,50.102 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "tg":"newlyn_p001_uk",
+    "e99_1930":-0.034706225,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.226506035,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.251390318,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.331278689,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2853,43.696 ]
+    },
+    "properties": {
+    "FIELD1":82,
+    "tg":"nice_france",
+    "e99_1930":0.213873045,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.153404392,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.06443606,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.264815344,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4398,55.007 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "tg":"northshields_p032_uk",
+    "e99_1930":1.330222538,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.275326013,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.845731919,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.372569998,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.415,42.356 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "tg":"ortona_ortona_italy",
+    "e99_1930":0.40302653,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":-0.0122318,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.078326337,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.295687155,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.734,59.909 ]
+    },
+    "properties": {
+    "FIELD1":85,
+    "tg":"oslo_004_norway",
+    "e99_1930":1.089109761,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.734005167,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.82065785,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.881174563,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6375,39.56 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "tg":"palma_de_mallorca_palmademallorca_spain",
+    "e99_1930":-0.162687066,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.464177613,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.057693904,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.109704637,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1901,55.627 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "tg":"portellen_p202_uk",
+    "e99_1930":1.270512111,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.179958108,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":1.453861758,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.759669149,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.7681,54.085 ]
+    },
+    "properties": {
+    "FIELD1":88,
+    "tg":"porterin_p919_uk",
+    "e99_1930":1.003073036,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.104257277,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":1.316105374,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.269257303,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.6,-38.333 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "tg":"portland,s.aus._129a_australia",
+    "e99_1930":0.790056684,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.576715708,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":1.230582631,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.86,-34.72 ]
+    },
+    "properties": {
+    "FIELD1":90,
+    "tg":"portlincoln_023_australia",
+    "e99_1930":0.395547926,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.033257367,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.310844109,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.5,-35.099 ]
+    },
+    "properties": {
+    "FIELD1":91,
+    "tg":"portlonsdale_017_australia",
+    "e99_1930":1.006460227,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.180965176,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4039,40.842 ]
+    },
+    "properties": {
+    "FIELD1":92,
+    "tg":"porto_torres_porto+torres_italy",
+    "e99_1930":-0.057090917,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.371905964,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.069367391,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.062362248,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.12,54.843 ]
+    },
+    "properties": {
+    "FIELD1":93,
+    "tg":"portpatrick_p063_uk",
+    "e99_1930":0.924957785,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.846765603,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.877496409,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.812865049,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.01,-33.177 ]
+    },
+    "properties": {
+    "FIELD1":94,
+    "tg":"portpirie_024_australia",
+    "e99_1930":1.86342557,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.644835662,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":1.11014464,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6568,55.207 ]
+    },
+    "properties": {
+    "FIELD1":95,
+    "tg":"portrush_p935_uk",
+    "e99_1930":1.405006644,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.659706202,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":1.288983555,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.993094662,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1118,50.803 ]
+    },
+    "properties": {
+    "FIELD1":96,
+    "tg":"portsmouth_p008_uk",
+    "e99_1930":0.793041274,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.685887693,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.049281975,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.393579371,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0616,45.569 ]
+    },
+    "properties": {
+    "FIELD1":97,
+    "tg":"port_bloc_",
+    "e99_1930":0.221185028,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.036606954,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.031200343,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.625535963,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.1264,43.52 ]
+    },
+    "properties": {
+    "FIELD1":98,
+    "tg":"port_camargue_france",
+    "e99_1930":0.180115624,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.102302213,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.156972751,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.0253067,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.47,-35.108 ]
+    },
+    "properties": {
+    "FIELD1":99,
+    "tg":"port_stanvac_100a_australia",
+    "e99_1930":1.625905169,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.17647805,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.439887299,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.4459,47.644 ]
+    },
+    "properties": {
+    "FIELD1":100,
+    "tg":"port_tudy_",
+    "e99_1930":-0.087515502,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.549308766,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.063357996,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.094820205,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1075,42.52 ]
+    },
+    "properties": {
+    "FIELD1":101,
+    "tg":"port_vendres_france",
+    "e99_1930":0.064174725,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.092066896,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.161850777,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.305924743,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.283,44.492 ]
+    },
+    "properties": {
+    "FIELD1":102,
+    "tg":"ravenna_ravenna_italy",
+    "e99_1930":0.359645166,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.313718745,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.062908156,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.352570114,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.113,57.25 ]
+    },
+    "properties": {
+    "FIELD1":103,
+    "tg":"ringhals_016_sweden",
+    "e99_1930":1.502138273,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.508715632,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.516767013,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.860238166,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.23,64.859 ]
+    },
+    "properties": {
+    "FIELD1":104,
+    "tg":"roervik_005_norway",
+    "e99_1930":0.268882086,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.543030988,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.818530284,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":1.136093539,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9657,48.718 ]
+    },
+    "properties": {
+    "FIELD1":105,
+    "tg":"roscoff_",
+    "e99_1930":-0.090270787,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.487573581,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.095291128,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.038933898,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.206,39.634 ]
+    },
+    "properties": {
+    "FIELD1":106,
+    "tg":"sagunto_sagunto_spain",
+    "e99_1930":0.031793001,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.269520271,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.137741229,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.120746737,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2464,47.14 ]
+    },
+    "properties": {
+    "FIELD1":107,
+    "tg":"saint_gildas_",
+    "e99_1930":0.193413045,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.234660844,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.099578766,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.199783953,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6816,43.395 ]
+    },
+    "properties": {
+    "FIELD1":108,
+    "tg":"saint_jean_de_luz_so_",
+    "e99_1930":-0.047656788,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.199313123,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.081905496,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.386700404,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0281,48.641 ]
+    },
+    "properties": {
+    "FIELD1":109,
+    "tg":"saint_malo_",
+    "e99_1930":0.726921117,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.409086339,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.475068513,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.182103915,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2016,47.267 ]
+    },
+    "properties": {
+    "FIELD1":110,
+    "tg":"saint_nazaire_",
+    "e99_1930":0.375170239,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.071827072,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.09416884,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.448041743,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.79,43.461 ]
+    },
+    "properties": {
+    "FIELD1":111,
+    "tg":"santander_ieo_spain",
+    "e99_1930":0.10142801,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.221266672,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.179471243,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.355029923,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.6991,43.398 ]
+    },
+    "properties": {
+    "FIELD1":112,
+    "tg":"sete_france",
+    "e99_1930":0.345647295,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.257518182,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.035883425,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.254631785,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.218,58.354 ]
+    },
+    "properties": {
+    "FIELD1":113,
+    "tg":"smogen_020_sweden",
+    "e99_1930":1.314251541,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.536717552,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":1.098402768,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.231004883,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.452,38.317 ]
+    },
+    "properties": {
+    "FIELD1":114,
+    "tg":"solomonsisland_biol.lab.__usa",
+    "e99_1930":0.30145199,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.269024075,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.119106961,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.306312998,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.832,58.093 ]
+    },
+    "properties": {
+    "FIELD1":115,
+    "tg":"stenungsund_022_sweden",
+    "e99_1930":1.499394979,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.401046058,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.994543493,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.236845879,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1167,49.183 ]
+    },
+    "properties": {
+    "FIELD1":116,
+    "tg":"sthelier_p074_uk",
+    "e99_1930":0.748837078,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.643681265,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.331390959,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.006994191,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3164,49.918 ]
+    },
+    "properties": {
+    "FIELD1":117,
+    "tg":"stmarys_p231_uk",
+    "e99_1930":0.011415608,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.401730868,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.020574997,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.449953255,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3882,58.208 ]
+    },
+    "properties": {
+    "FIELD1":118,
+    "tg":"stornoway_p042_uk",
+    "e99_1930":0.730993126,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.844561372,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.91324735,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.277341363,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.03,-39.05 ]
+    },
+    "properties": {
+    "FIELD1":119,
+    "tg":"taranaki_076a_new_zealand",
+    "e99_1930":0.535025778,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.301407978,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.430866013,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 176.18,-37.65 ]
+    },
+    "properties": {
+    "FIELD1":120,
+    "tg":"tauranga_073a_new_zealand",
+    "e99_1930":0.360256882,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.155480303,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.581495323,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.24,28.478 ]
+    },
+    "properties": {
+    "FIELD1":121,
+    "tg":"tenerife_tenerife_spain",
+    "e99_1930":0.270551372,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.363435563,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.052449581,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.13161589,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.65,-32.146 ]
+    },
+    "properties": {
+    "FIELD1":122,
+    "tg":"thevenard_026_australia",
+    "e99_1930":0.941868989,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.596210695,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.918228461,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.0642,56.623 ]
+    },
+    "properties": {
+    "FIELD1":123,
+    "tg":"tobermory_p223_uk",
+    "e99_1930":1.604650938,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.015196398,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.667630774,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.58953933,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.9131,43.117 ]
+    },
+    "properties": {
+    "FIELD1":124,
+    "tg":"toulon_france",
+    "e99_1930":-0.022623544,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.126512505,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.087901224,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.075701793,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5666,58 ]
+    },
+    "properties": {
+    "FIELD1":125,
+    "tg":"tregde_006_norway",
+    "e99_1930":0.578187466,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.415200171,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.580195831,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.654854935,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.75,45.65 ]
+    },
+    "properties": {
+    "FIELD1":126,
+    "tg":"trieste_270061_italy",
+    "e99_1930":0.362841147,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.284301565,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.15075169,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.190227396,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.1579,57.895 ]
+    },
+    "properties": {
+    "FIELD1":127,
+    "tg":"ullapool_p043_uk",
+    "e99_1930":1.088143821,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.693616023,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":1.008616891,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.88196591,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.33,39.46 ]
+    },
+    "properties": {
+    "FIELD1":128,
+    "tg":"valencia_valencia_spain",
+    "e99_1930":-0.07487651,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.054701843,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.019815425,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.117354761,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.217,57.1 ]
+    },
+    "properties": {
+    "FIELD1":129,
+    "tg":"varberg1_024_sweden",
+    "e99_1930":1.657078835,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.762018816,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.517266468,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.637282517,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.1,70.333 ]
+    },
+    "properties": {
+    "FIELD1":130,
+    "tg":"vardo,norway_001",
+    "e99_1930":0.323183595,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.556321717,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.709302026,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.153018512,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.426,45.419 ]
+    },
+    "properties": {
+    "FIELD1":131,
+    "tg":"venezia_punta_salute_italy",
+    "e99_1930":0.393996302,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.194500199,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.098809479,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.81301337,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.62,-35.553 ]
+    },
+    "properties": {
+    "FIELD1":132,
+    "tg":"victorharbor_027_australia",
+    "e99_1930":0.761997262,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":-0.280583956,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.441585295,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.7333,42.233 ]
+    },
+    "properties": {
+    "FIELD1":133,
+    "tg":"vigo_ieo_spain",
+    "e99_1930":-0.307841645,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.614990438,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.230563392,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.662421013,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.579,56.142 ]
+    },
+    "properties": {
+    "FIELD1":134,
+    "tg":"viken_025_sweden",
+    "e99_1930":1.573009054,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.312549197,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":1.103315984,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.589529865,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.77,42.601 ]
+    },
+    "properties": {
+    "FIELD1":135,
+    "tg":"villagarcia_villagarcia_spain",
+    "e99_1930":-0.361478189,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.96200723,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.259853967,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.727251921,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.68,45.4 ]
+    },
+    "properties": {
+    "FIELD1":136,
+    "tg":"wakkanai_japan",
+    "e99_1930":0.233776418,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":0.05790847,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.589746973,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.4479,50.608 ]
+    },
+    "properties": {
+    "FIELD1":137,
+    "tg":"weymouth_p991_uk",
+    "e99_1930":0.749896058,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.450016284,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.062061528,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.007477776,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.61417,54.49 ]
+    },
+    "properties": {
+    "FIELD1":138,
+    "tg":"whitby_p174_uk",
+    "e99_1930":1.360943112,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.470289736,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":1.511985609,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.889128197,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0863,58.441 ]
+    },
+    "properties": {
+    "FIELD1":139,
+    "tg":"wick_p035_uk",
+    "e99_1930":0.8316092,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":0.856303568,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":1.08556122,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.404643233,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9,-37.857 ]
+    },
+    "properties": {
+    "FIELD1":140,
+    "tg":"williamstown_028_australia",
+    "e99_1930":0.242546887,
+    "e99_1930_sigf":"FALSE",
+    "e99_1950":-0.54563894,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.14232009,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.5676,54.651 ]
+    },
+    "properties": {
+    "FIELD1":141,
+    "tg":"workington_p217_uk",
+    "e99_1930":1.528359385,
+    "e99_1930_sigf":"TRUE",
+    "e99_1950":1.210999558,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.732285697,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.596455208,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.883,68.71 ]
+    },
+    "properties": {
+    "FIELD1":142,
+    "tg":"aasiaat,greenland_001",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.269286883,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.63,51.863 ]
+    },
+    "properties": {
+    "FIELD1":143,
+    "tg":"adak,alaska_040a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.294904909,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.092797046,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3,37.772 ]
+    },
+    "properties": {
+    "FIELD1":144,
+    "tg":"alameda_navalairstation__usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.13557656,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.228949108,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.982,29.727 ]
+    },
+    "properties": {
+    "FIELD1":145,
+    "tg":"apalachicola_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.778398589,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.522964749,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":1.039764797,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.71,38.913 ]
+    },
+    "properties": {
+    "FIELD1":146,
+    "tg":"arena_cove,_ca_573a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.535027146,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.369630754,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.77,46.208 ]
+    },
+    "properties": {
+    "FIELD1":147,
+    "tg":"astoria,or_572a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.210168469,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.449873997,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.418,39.355 ]
+    },
+    "properties": {
+    "FIELD1":148,
+    "tg":"atlantic_city_264a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.34055609,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.307902791,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.31104151,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5,38.3 ]
+    },
+    "properties": {
+    "FIELD1":149,
+    "tg":"ayukawa_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.118690985,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.218407547,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.578,39.267 ]
+    },
+    "properties": {
+    "FIELD1":150,
+    "tg":"baltimore_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.218009235,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.000596107,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.025202533,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.6695,54.665 ]
+    },
+    "properties": {
+    "FIELD1":151,
+    "tg":"bangor_p662_uk",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.835965188,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":1.441752109,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":1.075640712,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.205,44.392 ]
+    },
+    "properties": {
+    "FIELD1":152,
+    "tg":"barharbor,frenchmanbay,me_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.040090053,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.052,42.355 ]
+    },
+    "properties": {
+    "FIELD1":153,
+    "tg":"boston,ma_741a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.102185903,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.589824374,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.835053951,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.182,41.173 ]
+    },
+    "properties": {
+    "FIELD1":154,
+    "tg":"bridgeport_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.197389623,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.07645369,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.079520608,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1143,39.21 ]
+    },
+    "properties": {
+    "FIELD1":155,
+    "tg":"cagliari_cagliari_italy",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.452674949,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.100168067,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.214445318,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.068,38.573 ]
+    },
+    "properties": {
+    "FIELD1":156,
+    "tg":"cambridgeii_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.094057368,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.012535576,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.210335732,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.96,38.968 ]
+    },
+    "properties": {
+    "FIELD1":157,
+    "tg":"capemay_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.150485905,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.178073665,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.218574767,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.96,38.968 ]
+    },
+    "properties": {
+    "FIELD1":158,
+    "tg":"cape_may,nj_746a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.025652187,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.01539177,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.111792292,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.032,29.135 ]
+    },
+    "properties": {
+    "FIELD1":159,
+    "tg":"cedarkeyii_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.46241909,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.319914514,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.312805033,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.32,43.345 ]
+    },
+    "properties": {
+    "FIELD1":160,
+    "tg":"charleston,or_575a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.053579948,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.113,36.967 ]
+    },
+    "properties": {
+    "FIELD1":161,
+    "tg":"chesapeake_bbt_749a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.344264658,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.443965037,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.149031349,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.87,35.75 ]
+    },
+    "properties": {
+    "FIELD1":162,
+    "tg":"choshigyoko_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.036456815,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.09911373,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.832,27.977 ]
+    },
+    "properties": {
+    "FIELD1":163,
+    "tg":"clearwater_bch,fl_773a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.940125154,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.122876563,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.081463322,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.75,60.558 ]
+    },
+    "properties": {
+    "FIELD1":164,
+    "tg":"cordova_b,alaska_583b_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.348786902,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.308732738,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.217,27.58 ]
+    },
+    "properties": {
+    "FIELD1":165,
+    "tg":"corpus_cristi,tx_770a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.451373866,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.18,41.745 ]
+    },
+    "properties": {
+    "FIELD1":166,
+    "tg":"crescent_city,ca_556a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.390952632,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.237105365,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.66,38.925 ]
+    },
+    "properties": {
+    "FIELD1":167,
+    "tg":"dalian_a_630a_china",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.440069048,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.075,30.25 ]
+    },
+    "properties": {
+    "FIELD1":168,
+    "tg":"dauphin_island,_al_763a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.516787475,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.199351837,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.634967764,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.5,-68 ]
+    },
+    "properties": {
+    "FIELD1":169,
+    "tg":"davis,australia_001",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.708517649,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.74,36.183 ]
+    },
+    "properties": {
+    "FIELD1":170,
+    "tg":"duck_pier,nc_260a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.029598935,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.259382798,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.113316884,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.54,53.88 ]
+    },
+    "properties": {
+    "FIELD1":171,
+    "tg":"dutch_harbor_b,ak_041b_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.211384289,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.451209485,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.467,30.672 ]
+    },
+    "properties": {
+    "FIELD1":172,
+    "tg":"fernandina_beach_240a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.164512259,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.149262015,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.433212337,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -31.168,39.378 ]
+    },
+    "properties": {
+    "FIELD1":173,
+    "tg":"flores,santa_cruz_210a_portugal",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.12643695,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.034593356,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.276014906,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.871,26.648 ]
+    },
+    "properties": {
+    "FIELD1":174,
+    "tg":"fortmyers_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.622960289,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.415824763,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.39466038,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.902,32.033 ]
+    },
+    "properties": {
+    "FIELD1":175,
+    "tg":"fortpulaski_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.295854487,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.053986988,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.231096871,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.902,32.033 ]
+    },
+    "properties": {
+    "FIELD1":176,
+    "tg":"fort_pulaski,ga_752a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.11981273,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.071079045,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.29843528,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.308,28.948 ]
+    },
+    "properties": {
+    "FIELD1":177,
+    "tg":"freeport_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.1221329,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.412633077,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.263150037,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.01,48.547 ]
+    },
+    "properties": {
+    "FIELD1":178,
+    "tg":"fridayharbor_ocean.labs.__usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.287179818,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.168480192,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.85,28.5 ]
+    },
+    "properties": {
+    "FIELD1":179,
+    "tg":"fuerteventura_fuerteventura_spain",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.222305061,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.340286132,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.272672988,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.93,40.65 ]
+    },
+    "properties": {
+    "FIELD1":180,
+    "tg":"fukaura_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.073975217,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.365974334,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.79,29.287 ]
+    },
+    "properties": {
+    "FIELD1":181,
+    "tg":"galveston,pier_21_775a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.268296779,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.310951429,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.046394821,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.03,-38.683 ]
+    },
+    "properties": {
+    "FIELD1":182,
+    "tg":"gisborne_b_078b_new_zealand",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.004947694,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.545763123,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5,37.247 ]
+    },
+    "properties": {
+    "FIELD1":183,
+    "tg":"gloucesterpoint_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.147109379,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.16156735,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.499378103,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.957,29.263 ]
+    },
+    "properties": {
+    "FIELD1":184,
+    "tg":"grandisle_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.591032375,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.042054503,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.076780463,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.53,40.533 ]
+    },
+    "properties": {
+    "FIELD1":185,
+    "tg":"hachinohe_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.013022769,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.144199859,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.73,41.783 ]
+    },
+    "properties": {
+    "FIELD1":186,
+    "tg":"hakodate_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.205270105,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.07,34.9 ]
+    },
+    "properties": {
+    "FIELD1":187,
+    "tg":"hamada_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.348249943,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.57,43.283 ]
+    },
+    "properties": {
+    "FIELD1":188,
+    "tg":"hanasaki_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.039457375,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.37692809,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2,22.3 ]
+    },
+    "properties": {
+    "FIELD1":189,
+    "tg":"hong_kong_b_329b_china",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.142896122,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.515051775,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.044833841,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.22,40.767 ]
+    },
+    "properties": {
+    "FIELD1":190,
+    "tg":"humboldt_bay,_ca_576a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.486752291,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.008789425,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.1,69.217 ]
+    },
+    "properties": {
+    "FIELD1":191,
+    "tg":"ilulissat,greenland_001",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.001111156,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.257660334,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -134.41,58.298 ]
+    },
+    "properties": {
+    "FIELD1":192,
+    "tg":"juneau_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.059819934,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.052845682,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28,28.088 ]
+    },
+    "properties": {
+    "FIELD1":193,
+    "tg":"kanmen_a_632a_china",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.149706851,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.63,55.333 ]
+    },
+    "properties": {
+    "FIELD1":194,
+    "tg":"ketchikan,ak_571a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.220497797,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.163796642,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.988,37.165 ]
+    },
+    "properties": {
+    "FIELD1":195,
+    "tg":"kiptopekebeach_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.068087297,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.106204733,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.217287267,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.51,57.732 ]
+    },
+    "properties": {
+    "FIELD1":196,
+    "tg":"kodiak_isl.,alaska_039a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.16237959,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.244108527,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.38,42.967 ]
+    },
+    "properties": {
+    "FIELD1":197,
+    "tg":"kushiro_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.111969315,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.527255572,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.398583664,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.95,75.383 ]
+    },
+    "properties": {
+    "FIELD1":198,
+    "tg":"l._cornwallis_i._705a_canada",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.803649163,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.517286398,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.412,28.141 ]
+    },
+    "properties": {
+    "FIELD1":199,
+    "tg":"las_palmas_laspalmas_spain",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.372220432,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.090106869,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.070551047,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.12,38.782 ]
+    },
+    "properties": {
+    "FIELD1":200,
+    "tg":"lewes,de_747a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.26210035,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.081889441,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.24986408,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.62,32.133 ]
+    },
+    "properties": {
+    "FIELD1":201,
+    "tg":"lusi_a_633a_china",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":1.39166896,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.72,-43.6 ]
+    },
+    "properties": {
+    "FIELD1":202,
+    "tg":"lyttelton_667a_new_zealand",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.843780655,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.69766453,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.38,35.467 ]
+    },
+    "properties": {
+    "FIELD1":203,
+    "tg":"maizuru_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.066627085,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.111563118,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3333,55.367 ]
+    },
+    "properties": {
+    "FIELD1":204,
+    "tg":"malin_head_834a_ireland",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.957610597,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.905,65.413 ]
+    },
+    "properties": {
+    "FIELD1":205,
+    "tg":"maniitsoq,greenland_001",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.175188746,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.5,-35.833 ]
+    },
+    "properties": {
+    "FIELD1":206,
+    "tg":"marsden_point_398a_new_zealand",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.115163832,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.778247383,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173.2,52.833 ]
+    },
+    "properties": {
+    "FIELD1":207,
+    "tg":"massacre_bay,ak_550a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.397974885,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.015449491,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 62.883,-67.6 ]
+    },
+    "properties": {
+    "FIELD1":208,
+    "tg":"mawson_177a_australia",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.769822721,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.432,30.395 ]
+    },
+    "properties": {
+    "FIELD1":209,
+    "tg":"mayport,fl_753a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.091794044,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.240818925,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.092400914,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.98,39.65 ]
+    },
+    "properties": {
+    "FIELD1":210,
+    "tg":"miyako_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.116225408,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.297275524,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.96,41.048 ]
+    },
+    "properties": {
+    "FIELD1":211,
+    "tg":"montauk,ny_279a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.351165917,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.159212994,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.160749896,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.097,41.285 ]
+    },
+    "properties": {
+    "FIELD1":212,
+    "tg":"nantucketisland_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.034734781,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.103949651,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.094058926,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 176.92,-39.483 ]
+    },
+    "properties": {
+    "FIELD1":213,
+    "tg":"napier_668a_new_zealand",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.058329032,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.48067917,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.62,48.368 ]
+    },
+    "properties": {
+    "FIELD1":214,
+    "tg":"neah_bay,wa_558a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.58378382,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173.27,-41.267 ]
+    },
+    "properties": {
+    "FIELD1":215,
+    "tg":"nelson_077a_new_zealand",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.093010355,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.310295196,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.09,41.361 ]
+    },
+    "properties": {
+    "FIELD1":216,
+    "tg":"newlondon_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.264465737,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.112549224,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.352127098,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.327,41.505 ]
+    },
+    "properties": {
+    "FIELD1":217,
+    "tg":"newport,ri_253a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.08693046,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.337426882,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.100510506,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.327,41.505 ]
+    },
+    "properties": {
+    "FIELD1":218,
+    "tg":"newport_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.324966837,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.369079172,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.165319298,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.014,40.701 ]
+    },
+    "properties": {
+    "FIELD1":219,
+    "tg":"newyork_thebattery__usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.154813115,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.030812704,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.027603762,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.087,41.355 ]
+    },
+    "properties": {
+    "FIELD1":220,
+    "tg":"new_london,ct_744a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.082588211,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.022053248,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.321210057,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.015,40.7 ]
+    },
+    "properties": {
+    "FIELD1":221,
+    "tg":"new_york,ny_745a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.137215848,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.0196778,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.179263592,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -165.43,64.5 ]
+    },
+    "properties": {
+    "FIELD1":222,
+    "tg":"nome,ak_595a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":2.514762855,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":1.046983169,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.15,37.5 ]
+    },
+    "properties": {
+    "FIELD1":223,
+    "tg":"noto_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.034378877,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.11234788,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.72,39.067 ]
+    },
+    "properties": {
+    "FIELD1":224,
+    "tg":"ofunato_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.175666298,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.204782429,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.9,36.933 ]
+    },
+    "properties": {
+    "FIELD1":225,
+    "tg":"onahama_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.242653819,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.09069285,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141,43.2 ]
+    },
+    "properties": {
+    "FIELD1":226,
+    "tg":"otaru_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.370940938,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.102499325,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.191641638,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.88,30.213 ]
+    },
+    "properties": {
+    "FIELD1":227,
+    "tg":"panama_city_beach_761a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.624331474,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":0.201050137,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.507189872,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.213,30.403 ]
+    },
+    "properties": {
+    "FIELD1":228,
+    "tg":"pensacola,fl_762a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.940884221,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.259707142,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.518901927,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -25.672,37.735 ]
+    },
+    "properties": {
+    "FIELD1":229,
+    "tg":"ponta_delgada_211a_portugal",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.195243545,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.089760109,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.306670796,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.247,43.657 ]
+    },
+    "properties": {
+    "FIELD1":230,
+    "tg":"portland_maine__usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.077135011,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.372360785,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.079768812,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.44,48.125 ]
+    },
+    "properties": {
+    "FIELD1":231,
+    "tg":"port_angeles,_wa_584a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.069206926,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.079159867,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.5,42.74 ]
+    },
+    "properties": {
+    "FIELD1":232,
+    "tg":"port_orford,_or_557a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.129098237,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.184487327,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.53,70.4 ]
+    },
+    "properties": {
+    "FIELD1":233,
+    "tg":"prudhoe_bay,_ak_579a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.288647492,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.531458831,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.033,60.717 ]
+    },
+    "properties": {
+    "FIELD1":234,
+    "tg":"qaqortoq,greenland_001",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.167338323,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.573,39.558 ]
+    },
+    "properties": {
+    "FIELD1":235,
+    "tg":"reedypoint_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.151008588,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.073212388,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.341841463,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.87,29.73 ]
+    },
+    "properties": {
+    "FIELD1":236,
+    "tg":"sabine_pass_n,tx_766a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":1.052750635,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.420678561,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.022400415,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.25,35.55 ]
+    },
+    "properties": {
+    "FIELD1":237,
+    "tg":"sakai_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.107794953,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.006398497,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.009,40.467 ]
+    },
+    "properties": {
+    "FIELD1":238,
+    "tg":"sandyhook_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.265456902,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.27675371,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.2805269,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.34,47.603 ]
+    },
+    "properties": {
+    "FIELD1":239,
+    "tg":"seattle_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.548394623,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.157283422,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.72,59.44 ]
+    },
+    "properties": {
+    "FIELD1":240,
+    "tg":"seldovia_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.845216334,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.900333979,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.43,60.12 ]
+    },
+    "properties": {
+    "FIELD1":241,
+    "tg":"seward_c,ak_560c_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.299856717,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-1.059582952,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.33,36.947 ]
+    },
+    "properties": {
+    "FIELD1":242,
+    "tg":"sewellspoint,hamptonroads_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.173582171,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.345591314,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.444953136,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.35,22.75 ]
+    },
+    "properties": {
+    "FIELD1":243,
+    "tg":"shanwei_641a_china",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.012175098,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.279264468,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.537971149,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.23,41.367 ]
+    },
+    "properties": {
+    "FIELD1":244,
+    "tg":"shimokita_japan",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.195764895,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.050391491,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.34,57.052 ]
+    },
+    "properties": {
+    "FIELD1":245,
+    "tg":"sitka,ak_559a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.828441445,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.260170056,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.33,59.45 ]
+    },
+    "properties": {
+    "FIELD1":246,
+    "tg":"skagway_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.553283939,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.051330746,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.918,33.655 ]
+    },
+    "properties": {
+    "FIELD1":247,
+    "tg":"springmaidpier_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.129257963,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.038573394,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.024308044,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.583,-38.717 ]
+    },
+    "properties": {
+    "FIELD1":248,
+    "tg":"st.paulisland_001",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.041130149,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.627,27.761 ]
+    },
+    "properties": {
+    "FIELD1":249,
+    "tg":"st.petersburg_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":1.213479939,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.411090262,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.172927459,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.262,29.857 ]
+    },
+    "properties": {
+    "FIELD1":250,
+    "tg":"st._augustine,fl_262a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.027755351,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":-0.025624679,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.188675509,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.7,47.567 ]
+    },
+    "properties": {
+    "FIELD1":251,
+    "tg":"st._john_s_b_276b_canada",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.433523979,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.526972313,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.462627557,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.627,27.76 ]
+    },
+    "properties": {
+    "FIELD1":252,
+    "tg":"st._petersburg,_fl_759a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":1.318829566,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":-0.222045272,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.169343814,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 171.25,-44.383 ]
+    },
+    "properties": {
+    "FIELD1":253,
+    "tg":"timaru_665a_new_zealand",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.440131431,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.992154065,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.54,53.88 ]
+    },
+    "properties": {
+    "FIELD1":254,
+    "tg":"unalaska_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.524306639,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.306393541,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.36,61.125 ]
+    },
+    "properties": {
+    "FIELD1":255,
+    "tg":"valdez,ak_562a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.460310457,
+    "e99_1950_sigf":"TRUE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.171751291,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.37,48.422 ]
+    },
+    "properties": {
+    "FIELD1":256,
+    "tg":"victoria,bc_543a_canada",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.114404703,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.084290641,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.022,38.873 ]
+    },
+    "properties": {
+    "FIELD1":257,
+    "tg":"washingtondc_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.181992571,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":null,
+    "t99_1950_sigf":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78,-41.283 ]
+    },
+    "properties": {
+    "FIELD1":258,
+    "tg":"wellington_071a_new_zealand",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.311294464,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.247582479,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.97,46.708 ]
+    },
+    "properties": {
+    "FIELD1":259,
+    "tg":"willapa_bay,_wa_564a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.259172373,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.659852906,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.782,40.793 ]
+    },
+    "properties": {
+    "FIELD1":260,
+    "tg":"willetspoint_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.836752167,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.105338934,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.356545827,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.672,41.523 ]
+    },
+    "properties": {
+    "FIELD1":261,
+    "tg":"woods_hole,ma_742a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":0.109431138,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.314961738,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.164745765,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.07,24.45 ]
+    },
+    "properties": {
+    "FIELD1":262,
+    "tg":"xiamen_376a_china",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.325714222,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":0.073278458,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.956727068,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -139.74,59.548 ]
+    },
+    "properties": {
+    "FIELD1":263,
+    "tg":"yakutat_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":-0.037959326,
+    "e99_1950_sigf":"FALSE",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.151882225,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3498,42.966 ]
+    },
+    "properties": {
+    "FIELD1":264,
+    "tg":"centuri_france",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":0.210784636,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.120379915,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.925,32.782 ]
+    },
+    "properties": {
+    "FIELD1":265,
+    "tg":"charleston,sc_261a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":-0.150828823,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.485361252,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6355,49.651 ]
+    },
+    "properties": {
+    "FIELD1":266,
+    "tg":"cherbourg_",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":0.354770232,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.580352878,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4,43.367 ]
+    },
+    "properties": {
+    "FIELD1":267,
+    "tg":"coruna_coru_spain",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":-0.24798009,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.695262056,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4189,38.735 ]
+    },
+    "properties": {
+    "FIELD1":268,
+    "tg":"formentera_formentera_spain",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":-0.087158603,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.07935761,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8929,43.405 ]
+    },
+    "properties": {
+    "FIELD1":269,
+    "tg":"fos_sur_mer_france",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":0.064191568,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.045984881,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.152,38.995 ]
+    },
+    "properties": {
+    "FIELD1":270,
+    "tg":"gandia_gandia_spain",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":-0.081189141,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.157908891,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.6312,53.308 ]
+    },
+    "properties": {
+    "FIELD1":271,
+    "tg":"holyhead_p054_uk",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":0.569191209,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":0.662814718,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.918,35.291 ]
+    },
+    "properties": {
+    "FIELD1":272,
+    "tg":"melilla_melilla_spain",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":-0.037574766,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.164246413,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.371,38.121 ]
+    },
+    "properties": {
+    "FIELD1":273,
+    "tg":"palermo_palermo_italy",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":0.133687438,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":0.148399479,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4038,41.857 ]
+    },
+    "properties": {
+    "FIELD1":274,
+    "tg":"solenzara_france",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":-0.065293079,
+    "t99_1930_sigf":"FALSE",
+    "t99_1950":-0.245033952,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.83,21.583 ]
+    },
+    "properties": {
+    "FIELD1":275,
+    "tg":"zhapo_a_635a_china",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":0.540912519,
+    "t99_1930_sigf":"TRUE",
+    "t99_1950":-0.089167727,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.35,-46.6 ]
+    },
+    "properties": {
+    "FIELD1":276,
+    "tg":"bluff_072a_new_zealand",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":1.623592624,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.91,-41.5 ]
+    },
+    "properties": {
+    "FIELD1":277,
+    "tg":"burnie_344a_australia",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.677903562,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.56,-43.947 ]
+    },
+    "properties": {
+    "FIELD1":278,
+    "tg":"chatham_079a_new_zealand",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.95819074,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.36,-38.147 ]
+    },
+    "properties": {
+    "FIELD1":279,
+    "tg":"geelong_013_australia",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.499601213,
+    "t99_1950_sigf":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.89,36.605 ]
+    },
+    "properties": {
+    "FIELD1":280,
+    "tg":"monterey,ca_555a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.300210338,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6,-34.926 ]
+    },
+    "properties": {
+    "FIELD1":281,
+    "tg":"portadelaideouter_020_australia",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.253042409,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.91,-34.473 ]
+    },
+    "properties": {
+    "FIELD1":282,
+    "tg":"port_kembla_342a_australia",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.032815079,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -130.17,54.317 ]
+    },
+    "properties": {
+    "FIELD1":283,
+    "tg":"princerupert,canada_001",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.171780453,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.5,55.337 ]
+    },
+    "properties": {
+    "FIELD1":284,
+    "tg":"sand_point,ak_574a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":0.418426232,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.47,37.807 ]
+    },
+    "properties": {
+    "FIELD1":285,
+    "tg":"sanfrancisco_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.326491202,
+    "t99_1950_sigf":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.04,44.625 ]
+    },
+    "properties": {
+    "FIELD1":286,
+    "tg":"south_beach,or_592a_usa",
+    "e99_1930":null,
+    "e99_1930_sigf":"",
+    "e99_1950":null,
+    "e99_1950_sigf":"",
+    "t99_1930":null,
+    "t99_1930_sigf":"",
+    "t99_1950":-0.077398889,
+    "t99_1950_sigf":"FALSE"
+    }
+  }
+]
+}

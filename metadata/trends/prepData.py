@@ -23,7 +23,8 @@ for csv in csvList:
 
     dat = pd.read_csv(csv)
 
-    dat = dat[dat['regSig']]
+    # # pick only significant trends
+    # dat = dat[dat['regSig']]
 
     if isFirst:
         dat = dat[['tg', 'lon', 'lat', 'trend_mm_year_reg', 'regSig']]
@@ -45,5 +46,5 @@ print(df)
 
 os.chdir("/")
 print(os.getcwd())
-df.to_csv("allTrends_v3.csv")
+df.to_csv("allTrends_v4.csv")
 
