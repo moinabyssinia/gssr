@@ -19,19 +19,20 @@ for csv in csvList:
     print(csv)
 
     cname = colNames[csv.split('_reg_95CI_modifiedMK_HAC.csv')[0]]
+    sig_name = cname + "_sigf"
 
     dat = pd.read_csv(csv)
 
     dat = dat[dat['regSig']]
 
     if isFirst:
-        dat = dat[['tg', 'lon', 'lat', 'trend_mm_year_reg']]
-        dat.columns = ['tg', 'lon', 'lat', cname]
+        dat = dat[['tg', 'lon', 'lat', 'trend_mm_year_reg', 'regSig']]
+        dat.columns = ['tg', 'lon', 'lat', cname, sig_name]
         df = dat.copy()
         isFirst = False
     else:
-        dat = dat[['tg', 'lon', 'lat', 'trend_mm_year_reg']]
-        dat.columns = ['tg', 'lon', 'lat', cname]
+        dat = dat[['tg', 'lon', 'lat', 'trend_mm_year_reg', 'regSig']]
+        dat.columns = ['tg', 'lon', 'lat', cname, sig_name]
 
         df = pd.merge(df, dat, on='tg', how='outer')
 
@@ -44,5 +45,5 @@ print(df)
 
 os.chdir("/")
 print(os.getcwd())
-df.to_csv("allTrends_v2.csv")
+df.to_csv("allTrends_v3.csv")
 
