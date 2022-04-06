@@ -1,20 +1,15 @@
 import os
 import pandas as pd
 
-dirHome = "./data"
+dirHome = "./data_v2"
 os.chdir(dirHome)
 
 csvList = os.listdir()
 
-colNames = {"era20c_1900_95thPercTrends" : 'e95_1900',
-            "era20c_1900_99thPercTrends" : 'e99_1900',
-            "era20c_1950_95thPercTrends" : 'e95_1950',
+colNames = {
+            "era20c_1930_99thPercTrends" : 'e99_1930',
             "era20c_1950_99thPercTrends" : 'e99_1950',
-            "twcr_1875_95thPercTrends" : 't95_1875',
-            "twcr_1875_99thPercTrends" : 't99_1875',
-            "twcr_1900_95thPercTrends" : 't95_1900',
-            "twcr_1900_99thPercTrends" : 't99_1900',
-            "twcr_1950_95thPercTrends" : 't95_1950',
+            "twcr_1930_99thPercTrends" : 't99_1930',
             "twcr_1950_99thPercTrends" : 't99_1950'
             }
 
@@ -49,5 +44,5 @@ print(df)
 
 os.chdir("/")
 print(os.getcwd())
-df.to_csv("allTrends.csv")
+df.to_csv("allTrends_v2.csv")
 
